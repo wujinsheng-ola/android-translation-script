@@ -1,0 +1,1 @@
+先编译成功flutter项目后，在项目跟目录下找到/assets/generates/lan找到多语言json，并替换
