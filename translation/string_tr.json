@@ -9034,6 +9034,7 @@
  "live_video_annoucement_message": "duyuru",
  "live_video_pk_compatibility": null,
  "live_video_pk_audience_compatibility": null,
+ "video_link_leave_room_tip": null,
  "home_tab_related": "önemli",
  "home_tab_recommend": "Önerilenler",
  "app_tab_party": "Parti",

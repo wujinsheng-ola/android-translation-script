@@ -6273,7 +6273,7 @@
     <string name="md5_1fa2755ac7b62ae0"><![CDATA[银行账号格式不正确]]></string>
     <string name="md5_5721b9e860e83067"><![CDATA[最多{value}个字符]]></string>
     <string name="md5_7adebc277f0ffc98"><![CDATA[{value}位数字]]></string>
-    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[防录/截屏设置]]></string>
+    <string name="anti_recording_and_screenshoot_setting_entrance"><![CDATA[防录/截屏设置]]></string>
     <string name="live_video_recording_button"><![CDATA[观众录屏]]></string>
     <string name="live_video_recording_button_tip"><![CDATA[关闭后将不支持观众录屏]]></string>
     <string name="live_video_screenshoot_button"><![CDATA[]]></string>
@@ -6331,6 +6331,7 @@
     <string name="md5_edd8375d21293eb8"><![CDATA[仅支持数字]]></string>
     <string name="md5_3875cbe70cd64b6e"><![CDATA[请填写英文]]></string>
     <string name="md5_94b284023195a096"><![CDATA[6位数字]]></string>
+    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[防录设置]]></string>
     <string name="mini_diamonds_button3"><![CDATA[已经隐藏钻石数]]></string>
     <string name="mini_diamonds_button4"><![CDATA[已经显示钻石数]]></string>
     <string name="mini_diamonds"><![CDATA[钻石]]></string>
@@ -6782,6 +6783,7 @@
     <string name="live_video_annoucement_message"><![CDATA[公告]]></string>
     <string name="live_video_pk_compatibility"><![CDATA[该区的用户版本和您的版本暂时不兼容]]></string>
     <string name="live_video_pk_audience_compatibility"><![CDATA[有一方主播的版本和您的版本不兼容，\n您将无法看到一方的画面，您可尝试更新\n版本或者重启app。]]></string>
+    <string name="video_link_leave_room_tip"><![CDATA[你目前在麦上，是否确认退房]]></string>
     <string name="rank_config_all"><![CDATA[真爱]]></string>
     <string name="rank_config_lucky"><![CDATA[手气]]></string>
     <string name="rank_config_sweet"><![CDATA[守护]]></string>

@@ -6229,7 +6229,7 @@
     <string name="md5_1fa2755ac7b62ae0"><![CDATA[تنسيق رقم الحساب البنكي غير صحيح]]></string>
     <string name="md5_5721b9e860e83067"><![CDATA[ما يصل إلى {value} حرفا]]></string>
     <string name="md5_7adebc277f0ffc98"><![CDATA[{value} حرفا]]></string>
-    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[]]></string>
+    <string name="anti_recording_and_screenshoot_setting_entrance"><![CDATA[]]></string>
     <string name="live_video_recording_button"><![CDATA[تسجيل المشاهدين]]></string>
     <string name="live_video_recording_button_tip"><![CDATA[لا يستطيع المشاهدون التسجيل بعد اغلاق الزر]]></string>
     <string name="live_video_screenshoot_button"><![CDATA[لقطة شاشة المشاهدين]]></string>
@@ -6287,6 +6287,7 @@
     <string name="md5_edd8375d21293eb8"><![CDATA[يدعم ادخال الارقام فقط]]></string>
     <string name="md5_3875cbe70cd64b6e"><![CDATA[يرجى ملء باللغة الإنجليزية]]></string>
     <string name="md5_94b284023195a096"><![CDATA[6 ارقام]]></string>
+    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[اعدادات منع التسجيل]]></string>
     <string name="mini_diamonds_button3"><![CDATA[تم اخفاء ماسات الشهر]]></string>
     <string name="mini_diamonds_button4"><![CDATA[تم اظهار ماسات الشهر]]></string>
     <string name="mini_diamonds"><![CDATA[ماسة]]></string>
@@ -6738,6 +6739,7 @@
     <string name="live_video_annoucement_message"><![CDATA[إعلان]]></string>
     <string name="live_video_pk_compatibility"><![CDATA["إصدار المستخدم لهذه المنطقة غير متوافق مؤقتًا مع الإصدار الخاص بك."]]></string>
     <string name="live_video_pk_audience_compatibility"><![CDATA[إصدار أحد المضيفين غير متوافق مع إصدارك، ولن تتمكن من رؤية شاشة المضيف الآخر. يمكنك محاولة تحديث الإصدار أو إعادة تشغيل التطبيق.]]></string>
+    <string name="video_link_leave_room_tip"><![CDATA[أنت في اتصال متعدد الأطراف، هل أنت متأكد من ذلك\nغادر الغرفة؟]]></string>
     <string name="rank_config_all"><![CDATA[الحب الحقيقي]]></string>
     <string name="rank_config_lucky"><![CDATA[الحظ]]></string>
     <string name="rank_config_sweet"><![CDATA[حارس]]></string>

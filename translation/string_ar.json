@@ -6743,6 +6743,7 @@
  "live_video_annoucement_message": "إعلان",
  "live_video_pk_compatibility": "\"إصدار المستخدم لهذه المنطقة غير متوافق مؤقتًا مع الإصدار الخاص بك.\"",
  "live_video_pk_audience_compatibility": "إصدار أحد المضيفين غير متوافق مع إصدارك، ولن تتمكن من رؤية شاشة المضيف الآخر. يمكنك محاولة تحديث الإصدار أو إعادة تشغيل التطبيق.",
+ "video_link_leave_room_tip": "أنت في اتصال متعدد الأطراف، هل أنت متأكد من ذلك\nغادر الغرفة؟",
  "rank_config_all": "الحب الحقيقي",
  "rank_config_lucky": "الحظ",
  "rank_config_sweet": "حارس",

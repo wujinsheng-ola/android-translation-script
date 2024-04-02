@@ -7307,7 +7307,7 @@
     <string name="md5_1fa2755ac7b62ae0"><![CDATA[Dạng thức số tài khoản ngân hàng không chính xác]]></string>
     <string name="md5_5721b9e860e83067"><![CDATA[Tối đa {value} ký tự]]></string>
     <string name="md5_7adebc277f0ffc98"><![CDATA[{value} chữ số]]></string>
-    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[Cài đặt phòng quay/ chụp màn hình]]></string>
+    <string name="anti_recording_and_screenshoot_setting_entrance"><![CDATA[Cài đặt phòng quay/ chụp màn hình]]></string>
     <string name="live_video_recording_button"><![CDATA[Khán giả quay màn hình]]></string>
     <string name="live_video_recording_button_tip"><![CDATA[Khán giả không thể quay màn hình sau khi đóng]]></string>
     <string name="live_video_screenshoot_button"><![CDATA[Khán giả chụp màn hình]]></string>
@@ -7365,6 +7365,7 @@
     <string name="md5_edd8375d21293eb8"><![CDATA[Chỉ hỗ trợ con số]]></string>
     <string name="md5_3875cbe70cd64b6e"><![CDATA[Vui lòng viết tiếng Anh]]></string>
     <string name="md5_94b284023195a096"><![CDATA[6 chữ số]]></string>
+    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[cài đặt chống ghi màn hình]]></string>
     <string name="mini_diamonds_button3"><![CDATA[Đã ẩn số kim cương tháng này]]></string>
     <string name="mini_diamonds_button4"><![CDATA[Đã hiện thị số kim cương tháng này]]></string>
     <string name="mini_diamonds"><![CDATA[Kim cương]]></string>
@@ -7809,12 +7810,13 @@
     <string name="video_link_mic_operation_tip3"><![CDATA[Mic đã tắt]]></string>
     <string name="video_link_mic_operation_tip4"><![CDATA[Mic đã mở]]></string>
     <string name="video_link_bubble"><![CDATA[Kết nối mic nhiều người]]></string>
-    <string name="video_link_version_popup_tip1"><![CDATA[]]></string>
-    <string name="video_link_compatiblity_tip1"><![CDATA[]]></string>
-    <string name="video_link_compatiblity_tip2"><![CDATA[]]></string>
-    <string name="video_link_compatiblity_tip3"><![CDATA[]]></string>
+    <string name="video_link_version_popup_tip1"><![CDATA[Phiên bản này đã ra mắt chức năng kết nối mic nhiều người, hỗ trợ kết nối mic nhiều người trong phòng, hãy tải xuống và trải nghiệm đi .]]></string>
+    <string name="video_link_compatiblity_tip1"><![CDATA[Không hỗ trợ sử dụng chức năng này.]]></string>
+    <string name="video_link_compatiblity_tip2"><![CDATA[Không hỗ trợ sử dụng chức năng này, vui lòng thử tải xuống phiên mới mới nhất hoặc đặt lại APP.]]></string>
+    <string name="video_link_compatiblity_tip3"><![CDATA[Có nhiều người đang kết nối mic trong phòng này, không hỗ trợ bạn sử dụng chức năng này, vui lòng thử tải xuống phiên bản mới nhất hoặc đặt lại APP.]]></string>
     <string name="live_video_annoucement_message"><![CDATA[Thông báo]]></string>
     <string name="live_video_pk_compatibility"><![CDATA[Phiên bản người dùng của khu vực này và phiên bản của bạn tạm thời không tương thích]]></string>
     <string name="live_video_pk_audience_compatibility"><![CDATA[Nếu có một máy chủ có phiên bản không tương thích với phiên bản của bạn thì bạn sẽ không nhìn thấy được màn hình của bên ấy, bạn có thể thử cập nhật phiên bản hoặc khởi động lại app.]]></string>
+    <string name="video_link_leave_room_tip"><![CDATA[Bạn đang ở trên mic, xác nhận ra phòng hay không?]]></string>
     <string name="bill_transfer_pay"><![CDATA[chuyển đến% xxxx%]]></string>
 </resources>

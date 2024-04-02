@@ -7814,12 +7814,13 @@
  "video_link_mic_operation_tip3": "Mic đã tắt",
  "video_link_mic_operation_tip4": "Mic đã mở",
  "video_link_bubble": "Kết nối mic nhiều người",
- "video_link_version_popup_tip1": null,
- "video_link_compatiblity_tip1": null,
- "video_link_compatiblity_tip2": null,
- "video_link_compatiblity_tip3": null,
+ "video_link_version_popup_tip1": "Phiên bản này đã ra mắt chức năng kết nối mic nhiều người, hỗ trợ kết nối mic nhiều người trong phòng, hãy tải xuống và trải nghiệm đi .",
+ "video_link_compatiblity_tip1": "Không hỗ trợ sử dụng chức năng này.",
+ "video_link_compatiblity_tip2": "Không hỗ trợ sử dụng chức năng này, vui lòng thử tải xuống phiên mới mới nhất hoặc đặt lại APP.",
+ "video_link_compatiblity_tip3": "Có nhiều người đang kết nối mic trong phòng này, không hỗ trợ bạn sử dụng chức năng này, vui lòng thử tải xuống phiên bản mới nhất hoặc đặt lại APP.",
  "live_video_annoucement_message": "Thông báo",
  "live_video_pk_compatibility": "Phiên bản người dùng của khu vực này và phiên bản của bạn tạm thời không tương thích",
  "live_video_pk_audience_compatibility": "Nếu có một máy chủ có phiên bản không tương thích với phiên bản của bạn thì bạn sẽ không nhìn thấy được màn hình của bên ấy, bạn có thể thử cập nhật phiên bản hoặc khởi động lại app.",
+ "video_link_leave_room_tip": "Bạn đang ở trên mic, xác nhận ra phòng hay không?",
  "bill_transfer_pay": "chuyển đến% xxxx%"
 }

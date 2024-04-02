@@ -6738,6 +6738,7 @@
  "live_video_annoucement_message": null,
  "live_video_pk_compatibility": null,
  "live_video_pk_audience_compatibility": null,
+ "video_link_leave_room_tip": null,
  "rank_config_all": "รักแท้",
  "rank_config_lucky": "ลักกี้",
  "rank_config_sweet": "เฝ้ายาม",

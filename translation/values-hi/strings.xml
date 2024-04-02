@@ -6205,7 +6205,7 @@
     <string name="md5_1fa2755ac7b62ae0"><![CDATA[Bank account number format is incorrect]]></string>
     <string name="md5_5721b9e860e83067"><![CDATA[Up to {value} characters]]></string>
     <string name="md5_7adebc277f0ffc98"><![CDATA[{value} digits]]></string>
-    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[anti-recording/screenshoot setting]]></string>
+    <string name="anti_recording_and_screenshoot_setting_entrance"><![CDATA[anti-recording/screenshoot setting]]></string>
     <string name="live_video_recording_button"><![CDATA[audience recording]]></string>
     <string name="live_video_recording_button_tip"><![CDATA[audience can not record after closing the button]]></string>
     <string name="live_video_screenshoot_button"><![CDATA[audience screenshoot]]></string>
@@ -6263,6 +6263,7 @@
     <string name="md5_edd8375d21293eb8"><![CDATA[Only supports numbers]]></string>
     <string name="md5_3875cbe70cd64b6e"><![CDATA[Please fill in English]]></string>
     <string name="md5_94b284023195a096"><![CDATA[6 digits]]></string>
+    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[anti-recording setting]]></string>
     <string name="mini_diamonds_button3"><![CDATA[Diamonds of the month have been hidden]]></string>
     <string name="mini_diamonds_button4"><![CDATA[Show diamonds of the month]]></string>
     <string name="mini_diamonds"><![CDATA[Diamonds]]></string>
@@ -6714,6 +6715,7 @@
     <string name="live_video_annoucement_message"><![CDATA[announcement]]></string>
     <string name="live_video_pk_compatibility"><![CDATA[The user version of this area\n is temporarily incompatible\n with your version.]]></string>
     <string name="live_video_pk_audience_compatibility"><![CDATA[One anchor\'s version is incompatible with yours, \nand you will not be able to see the other anchor\'s screen. \nYou can try updating the version or restarting the app.]]></string>
+    <string name="video_link_leave_room_tip"><![CDATA[you are in multi-party connection, are you sure to \nleave the room?]]></string>
     <string name="rank_config_all"><![CDATA[सच्चा प्यार]]></string>
     <string name="rank_config_lucky"><![CDATA[भाग्य]]></string>
     <string name="rank_config_sweet"><![CDATA[रक्षा करना]]></string>
