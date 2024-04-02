@@ -20,6 +20,8 @@ def escape_special_characters(value):
 def escape_special_characters_for_key(value):
     if value is None:
         return ""
+    if value == "anti_recording/screenshoot_setting_entrance":
+        value = "anti_recording_and_screenshoot_setting_entrance"
 
     escaped_value = re.sub(r'[:\s-]', '', value)
     escaped_value = escaped_value.replace('/', '_')
