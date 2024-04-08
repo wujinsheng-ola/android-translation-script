@@ -4480,7 +4480,6 @@
     <string name="invitation_toast_input_error"><![CDATA[The invitation code you inputted is invalid, please contact your friends to obtain and enter the correct invitation code]]></string>
     <string name="invitation_toast_input_empty"><![CDATA[Please enter the invitation code]]></string>
     <string name="invitation_system_notification_binding_successful"><![CDATA[%Username% (ID: %xxx%) has successfully bound an invitation relationship with you]]></string>
-    <string name="common_coins"><![CDATA[]]></string>
     <string name="sign_in_sevenday"><![CDATA[7 days]]></string>
     <string name="daily_reward_days_not_enough"><![CDATA[Sign-in for continuous {x} to claim this reward]]></string>
     <string name="clown"><![CDATA[Clowns]]></string>
@@ -5669,7 +5668,6 @@
     <string name="Invitation_centerp_h5_illustrate4"><![CDATA[1. Open the invitation center page, copy my invitation code, and send it to the user you want to invite]]></string>
     <string name="Invitation_centerp_h5_illustrate5"><![CDATA[2. After the user you invited downloads and registers, click on the personal page-invitation code, enter your invitation code to complete the binding]]></string>
     <string name="Invitation_centerp_h5_copy"><![CDATA[The invitation code has been copied, please share it with your friends]]></string>
-    <string name="Invitation_centerp_h5_date"><![CDATA[]]></string>
     <string name="share_messenger_not_installed"><![CDATA[Messenger not installed]]></string>
     <string name="share_line_not_installed"><![CDATA[Line not installed]]></string>
     <string name="share_instagram_not_installed"><![CDATA[Instagram not installed]]></string>
@@ -6259,7 +6257,6 @@
     <string name="recruitment_centre20"><![CDATA[Number of members: %1]]></string>
     <string name="recruitment_centre21"><![CDATA[Invitation time: %1]]></string>
     <string name="recruitment_centre22"><![CDATA[Scroll down to see more]]></string>
-    <string name="mini_diamonds1"><![CDATA[]]></string>
     <string name="mini_diamonds_tip"><![CDATA[The number of diamonds that the user has received as gifts in the live or voice room this month is cleared and recounted at the end of each month. The host can click on the room profile card to choose to turn on or off the display.]]></string>
     <string name="mini_diamonds_button1"><![CDATA[Hide this month\'s diamonds]]></string>
     <string name="mini_diamonds_button2"><![CDATA[Show this month\'s diamonds]]></string>

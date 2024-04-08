@@ -4625,7 +4625,6 @@
     <string name="room_greeting_5"><![CDATA[你好呀，想一起玩儿吗 ？]]></string>
     <string name="room_greeting_6"><![CDATA[Hello呀]]></string>
     <string name="room_greeting_7"><![CDATA[嗨，你最近好吗？]]></string>
-    <string name="room_greeting_8"><![CDATA[]]></string>
     <string name="cash_exchange_diamonds_notice"><![CDATA[注意：]]></string>
     <string name="cash_exchange_diamonds_rate"><![CDATA[1薪资可以兑换%1]]></string>
     <string name="cash_exchange_diamonds_tips"><![CDATA[提示]]></string>
@@ -5661,7 +5660,6 @@
     <string name="lucky_gift_prize_pool_rewards"><![CDATA[%1获得幸运奖池奖励]]></string>
     <string name="lucky_gift_prize_pool_started_1"><![CDATA[幸运奖池开始啦]]></string>
     <string name="lucky_gift_prize_pool_started_2"><![CDATA[限定%1分钟，快来！]]></string>
-    <string name="lucky_gift_prize_pool_rewards_user"><![CDATA[]]></string>
     <string name="lucky_gift_prize_pool_diamonds_remaining"><![CDATA[幸运奖池还有%1]]></string>
     <string name="lucky_gift_prize_pool_times_up_remind"><![CDATA[还有10分钟就结束啦。]]></string>
     <string name="lucky_gift_prize_pool_rewards_popup"><![CDATA[恭喜你获得幸运奖池：%1💎]]></string>
@@ -6276,7 +6274,6 @@
     <string name="anti_recording_and_screenshoot_setting_entrance"><![CDATA[防录/截屏设置]]></string>
     <string name="live_video_recording_button"><![CDATA[观众录屏]]></string>
     <string name="live_video_recording_button_tip"><![CDATA[关闭后将不支持观众录屏]]></string>
-    <string name="live_video_screenshoot_button"><![CDATA[]]></string>
     <string name="live_video_screenshoot_button_tip"><![CDATA[关闭后将不支持观众截屏]]></string>
     <string name="live_video_popup_text"><![CDATA[该直播间暂不支持录屏]]></string>
     <string name="live_video_default_picture_tip2"><![CDATA[该直播间暂不支持截屏]]></string>
@@ -6758,7 +6755,6 @@
     <string name="video_link_setup_dispaly_mic"><![CDATA[显示麦位]]></string>
     <string name="video_link_invite_list_button"><![CDATA[邀请]]></string>
     <string name="video_link_invite_list_tip1"><![CDATA[该用户已在麦上]]></string>
-    <string name="video_link_invite_list_tip2"><![CDATA[]]></string>
     <string name="video_link_invite_list_tip4"><![CDATA[麦上无空麦位，请稍后再试]]></string>
     <string name="video_link_invite_list_tip5"><![CDATA[正在连麦中，请稍后再试]]></string>
     <string name="video_link_invtie_popup_tip"><![CDATA[还有【%1】人正在接通中]]></string>

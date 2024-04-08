@@ -2391,8 +2391,6 @@
     <string name="ktv_tuner"><![CDATA[টোন (%১)]]></string>
     <string name="room_input_disabled_toast"><![CDATA[এই রুমের সর্বজনীন মেসেজিং বন্ধ করা হয়েছে, কেউ সাময়িকভাবে টেক্সট করতে পারবে না।]]></string>
     <string name="no_people_in_rank"><![CDATA[এখনও র‍্যাঙ্কিং হয়নি]]></string>
-    <string name="contribution_ranklist_help"><![CDATA[]]></string>
-    <string name="charm_ranklist_help"><![CDATA[]]></string>
     <string name="room_please_input_room_notice"><![CDATA[রুমের ঘোষণা টাইপ করুন]]></string>
     <string name="no_admin"><![CDATA[এখনও এডমিনিস্ট্রেটর নেই]]></string>
     <string name="no_forbidden_log"><![CDATA[কোনো ব্লক রেকর্ড নেই]]></string>
@@ -3099,7 +3097,6 @@
     <string name="moment_save_photo_success"><![CDATA[সংরক্ষিত]]></string>
     <string name="moment_reward"><![CDATA[উপহার]]></string>
     <string name="moment_gift_request_title"><![CDATA[উপহার পাঠান]]></string>
-    <string name="moment_few_browse"><![CDATA[]]></string>
     <string name="room"><![CDATA[রুম]]></string>
     <string name="game_back"><![CDATA[ব্যাক]]></string>
     <string name="game_classic"><![CDATA[পেছনে]]></string>
@@ -3634,7 +3631,6 @@
     <string name="light_up_more"><![CDATA[আরও উপহার আলোকিত করুন]]></string>
     <string name="received_gift_from"><![CDATA[আপনি %১ থেকে একটি উপহার পেয়েছেন]]></string>
     <string name="send_gift_request_to_fans"><![CDATA[আপনার এখন ও এই উপহার নেই, এটা অনুরোধ?]]></string>
-    <string name="gift_request_msg_content"><![CDATA[]]></string>
     <string name="dlg_req_gift_from"><![CDATA[%১ এর উপহারের অনুরোধ পূরণ করবেন?]]></string>
     <string name="fan_group"><![CDATA[ফ্যান গ্রুপ]]></string>
     <string name="person_invitation_tip"><![CDATA[অনুগ্রহ করে নিশ্চিত করুন যে স্বাক্ষরের আগে হোস্টের কাছে এটিই একমাত্র অ্যাকাউন্ট]]></string>
@@ -5278,7 +5274,6 @@
     <string name="share_notification"><![CDATA[%1 রুম শেয়ার করেছে।]]></string>
     <string name="share_h5_title"><![CDATA[%1 এর ঘরে স্বাগতম]]></string>
     <string name="share_whatsapp_button"><![CDATA[হোয়াটসঅ্যাপ ইনস্টল করা হয়নি]]></string>
-    <string name="red_packet_error_account_banned"><![CDATA[]]></string>
     <string name="ktv_upload_lyrics"><![CDATA[৩. গানের কথা আপলোড করুন]]></string>
     <string name="ktv_no_lyrics"><![CDATA[এখনো কোন গানের কথা নেই]]></string>
     <string name="vip_title_privileges"><![CDATA[VIP বিশেষাধিকার]]></string>
@@ -5426,7 +5421,6 @@
     <string name="chatroom_liveroom_comment_clear_3"><![CDATA[The host has cleaned up the room history chat.]]></string>
     <string name="chatroom_liveroom_comment_clear_4"><![CDATA[The admin has cleaned up the room history chat.]]></string>
     <string name="chatroom_liveroom_comment_admins_cancel_tips"><![CDATA[You have been disqualified as an administrator]]></string>
-    <string name="party_star_family_hot_family_recommend"><![CDATA[]]></string>
     <string name="party_star_family_hot_family_recommend_more"><![CDATA[More]]></string>
     <string name="party_star_family_invite_friends_apply_join_same_family"><![CDATA[আপনি আপনার বন্ধুদের আপনার পরিবারে যোগদানের জন্য আবেদন করতে আমন্ত্রণ জানাতে পারেন এবং আপনি একই বন্ধুকে ৪৮ ঘন্টার মধ্যে শুধুমাত্র একটি আমন্ত্রণ পাঠাতে পারেন]]></string>
     <string name="party_star_family_invite_friends_searching_tips"><![CDATA[অনুসন্ধান করতে আপনার বন্ধুর আইডি লিখুন]]></string>
@@ -5516,7 +5510,6 @@
     <string name="chatroom_roomtheme_popup_renewuse"><![CDATA[পুনর্নবীকরণ সফল! আপনি কি এখনই এটি ব্যবহার করতে চান?]]></string>
     <string name="app_invite_public_test_desc"><![CDATA[নতুন সংস্করণটি শীঘ্রই প্রকাশিত হবে, এবং আপনাকে প্রথমে বিটা সংস্করণের নতুন বৈশিষ্ট্যগুলি উপভোগ করার জন্য আমন্ত্রণ জানানো হচ্ছে!]]></string>
     <string name="partystar_item_rain_coming_soon"><![CDATA[Ready? Starting soon.]]></string>
-    <string name="partystar_item_rain_falling_duration"><![CDATA[]]></string>
     <string name="partystar_item_rain_falling_collect_popup_1"><![CDATA[অভিনন্দন]]></string>
     <string name="partystar_item_rain_falling_collect_popup_2"><![CDATA[মোট আপনি পাবেন]]></string>
     <string name="partystar_item_rain_falling_collect_popup_3"><![CDATA[OK]]></string>
@@ -5527,18 +5520,7 @@
     <string name="chatroom_quick_gift_sending_tips_2"><![CDATA[No reminder next time]]></string>
     <string name="chatroom_quick_gift_sending_tips_3"><![CDATA[পাঠান]]></string>
     <string name="chatroom_quick_gift_sending_tips_4"><![CDATA[Quick Gift is online]]></string>
-    <string name="chatroom_room_task_level_icon"><![CDATA[]]></string>
-    <string name="chatroom_room_task_level"><![CDATA[]]></string>
-    <string name="chatroom_room_task_level_points"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_1"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_2"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_3"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_4"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_5"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_6"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_7"><![CDATA[]]></string>
     <string name="chatroom_room_task_rule_8"><![CDATA[যাও]]></string>
-    <string name="chatroom_room_task_rule_9"><![CDATA[]]></string>
     <string name="chatroom_room_task_rule_10"><![CDATA[চেক ইন করুন (%1/%2 Exp)]]></string>
     <string name="chatroom_room_task_rule_11"><![CDATA[Each user check-in adds 10 exp.]]></string>
     <string name="chatroom_room_task_rule_12"><![CDATA[রুমে থাকা ১ মিনিট（%1/%2 মেয়াদ）]]></string>
@@ -5547,7 +5529,6 @@
     <string name="chatroom_room_task_rule_15"><![CDATA[প্রতিটি ইউজার ৩ মিনিট এবং ১০ মেয়াদের জন্য থাকে।]]></string>
     <string name="chatroom_room_task_rule_16"><![CDATA[উপহার পাঠান（%1/%2 Exp）]]></string>
     <string name="chatroom_room_task_rule_17"><![CDATA[1 diamond = 10 exp.]]></string>
-    <string name="chatroom_room_task_rule_18"><![CDATA[]]></string>
     <string name="partystar_item_rain_falling_collect_popup_7"><![CDATA[In settlement...]]></string>
     <string name="chatroom_room_task_daily_on_mic_title"><![CDATA[On mic (%1/%2 Exp)]]></string>
     <string name="chatroom_room_task_rule_19"><![CDATA[A user on the mic adds 10 exp.]]></string>
@@ -5578,10 +5559,8 @@
     <string name="common_new"><![CDATA[নতুন]]></string>
     <string name="luckwheel_customization_dialog_title"><![CDATA[পরিমাণ লিখুন]]></string>
     <string name="chatroom_room_task_daily_exp_done"><![CDATA[সমাপ্ত]]></string>
-    <string name="chatroom_room_task_daily_list_title"><![CDATA[]]></string>
     <string name="chatroom_room_task_rule_111"><![CDATA[চেক ইন করুন]]></string>
     <string name="common_customization"><![CDATA[কাস্টমাইজেশন]]></string>
-    <string name="chatroom_room_task_rule_112"><![CDATA[]]></string>
     <string name="phone_time_not_match_server_time."><![CDATA[Error, the time set on the phone does not match the server time.]]></string>
     <string name="notify_click_to_chat"><![CDATA[চ্যাটরুমে ফিরে যেতে টেপ করুন]]></string>
     <string name="notify_click_to_live"><![CDATA[লাইভরুমে ফিরে যেতে টেপ করুন]]></string>
@@ -5655,7 +5634,6 @@
     <string name="Invitation_centerp_h5_illustrate4"><![CDATA[1. আমন্ত্রণ কেন্দ্র পৃষ্ঠা খুলুন, আমার আমন্ত্রণ কোড কপি করুন এবং আপনি যে ব্যবহারকারীকে আমন্ত্রণ জানাতে চান তাকে পাঠান]]></string>
     <string name="Invitation_centerp_h5_illustrate5"><![CDATA[2. আপনি যে ইউজারকে ডাউনলোড এবং নিবন্ধনের আমন্ত্রণ জানিয়েছেন তার পরে, ব্যক্তিগত পৃষ্ঠা-আমন্ত্রণ কোডে ক্লিক করুন, বাইন্ডিং সম্পূর্ণ করতে আপনার আমন্ত্রণ কোড লিখুন]]></string>
     <string name="Invitation_centerp_h5_copy"><![CDATA[আমন্ত্রণ কোড কপি করা হয়েছে, আপনার বন্ধুদের সাথে শেয়ার করুন.]]></string>
-    <string name="Invitation_centerp_h5_date"><![CDATA[]]></string>
     <string name="share_messenger_not_installed"><![CDATA[মেসেঞ্জার ইনস্টল করা হয়নি]]></string>
     <string name="share_line_not_installed"><![CDATA[লাইন ইনস্টল করা হয়নি]]></string>
     <string name="share_instagram_not_installed"><![CDATA[ইনস্টাগ্রাম ইনস্টল করা হয়নি]]></string>
@@ -5766,7 +5744,6 @@
     <string name="chatroom_rocket_boom_rule_8"><![CDATA[8. প্রাপ্ত পুরষ্কারগুলি মানিব্যাগ বা ব্যাকপ্যাকে সংরক্ষণ করা হবে এবং বিশ্বব্যাপী ব্যানার এবং রুম সুপারিশ অবিলম্বে ট্রিগার এবং ব্যবহার করা হবে।]]></string>
     <string name="chatroom_rocket_boom_rule_9"><![CDATA[9. যে কোন ইউজারদের অবৈধ উপায়ে কার্যকলাপের নিয়ম লঙ্ঘন করে তাকে পুরস্কার থেকে অযোগ্য ঘোষণা করা হবে।]]></string>
     <string name="chatroom_rocket_boom_rule_10"><![CDATA[10. এই কার্যকলাপের সমস্ত ব্যাখ্যার অধিকার পার্টি স্টারের।]]></string>
-    <string name="chatroom_rocket_boom_congratulations"><![CDATA[]]></string>
     <string name="special_id_mall_entrance"><![CDATA[বিশেষ আইডি]]></string>
     <string name="special_id_mall_popular"><![CDATA[জনপ্রিয়]]></string>
     <string name="special_id_mall_customize"><![CDATA[নিজে-নির্বাচিত]]></string>
@@ -6081,8 +6058,6 @@
     <string name="game_coupon_greedy_dialog_text"><![CDATA[আপনার গ্রিডিস্টার কুপন আছে %1 %2💎 এবং এই বাজি কুপন খরচ করবে!]]></string>
     <string name="common_dialog_do_not_show_again"><![CDATA[আবার দেখাবেন না]]></string>
     <string name="fb_register_limit_tips"><![CDATA[আপনি সাময়িকভাবে Facebook অ্যাকাউন্টের সাথে নিবন্ধন করতে অক্ষম, অনুগ্রহ করে সাইন ইন করতে একটি নিবন্ধিত অ্যাকাউন্ট ব্যবহার করুন৷]]></string>
-    <string name="greedy_toast_coupon_expired"><![CDATA[]]></string>
-    <string name="game_coupon_obtain_push"><![CDATA[]]></string>
     <string name="chatroom_room_skin_entrance"><![CDATA[রুম ব্যাকগ্রাউন্ড]]></string>
     <string name="chatroom_room_skin_popup_tab1"><![CDATA[সিটের প্রভাব]]></string>
     <string name="chatroom_room_skin_popup_tab2"><![CDATA[সিট ব্যাকগ্রাউন্ড]]></string>
@@ -6245,7 +6220,6 @@
     <string name="recruitment_centre20"><![CDATA[সদস্য সংখ্যা: %1]]></string>
     <string name="recruitment_centre21"><![CDATA[আমন্ত্রণের সময়: %1]]></string>
     <string name="recruitment_centre22"><![CDATA[আরও দেখতে নিচে স্ক্রোল করুন]]></string>
-    <string name="mini_diamonds1"><![CDATA[]]></string>
     <string name="mini_diamonds_tip"><![CDATA[ইউজাররা এই মাসে লাইভ বা ভয়েস রুমে উপহার হিসাবে ডায়মন্ড পেয়েছেন তার সংখ্যা প্রতি মাসের শেষে সাফ করা হয় এবং পুনরায় গণনা করা হয়। ডিসপ্লে চালু বা বন্ধ করার জন্য হোস্ট রুম প্রোফাইল কার্ডে ক্লিক করতে পারেন।]]></string>
     <string name="mini_diamonds_button1"><![CDATA[এই মাসের ডায়মন্ড লুকান]]></string>
     <string name="mini_diamonds_button2"><![CDATA[এই মাসের ডায়মন্ড দেখান]]></string>
@@ -6335,7 +6309,6 @@
     <string name="recruitment_centre_tips2"><![CDATA[একটি শুরুর সময় বেছে নিন যা আজকের পরে নয়]]></string>
     <string name="recruitment_centre_tips3"><![CDATA[একটি শেষ সময় নির্বাচন করুন যা শুরুর সময়ের আগে নয়]]></string>
     <string name="recruitment_centre_tips4"><![CDATA[একটি শেষ সময় নির্বাচন করুন যা আজকের পরে নয়]]></string>
-    <string name="face_verification_button4"><![CDATA[]]></string>
     <string name="recruitment_centre26"><![CDATA[ডেটা শেষ আপডেট করার সময়]]></string>
     <string name="face_verification_tips22"><![CDATA[আপনার ইতিমধ্যে মুখ প্রমাণীকরণ সঞ্চালিত হয়েছে. আপনি আবার প্রমাণীকরণের জন্য একাধিক অ্যাকাউন্ট আবদ্ধ করতে পারবেন না।]]></string>
     <string name="top_card_name"><![CDATA[শীর্ষ কার্ড]]></string>
@@ -6524,7 +6497,6 @@
     <string name="anchor_invitations_events_2"><![CDATA[নগদ জন্য আমন্ত্রণ]]></string>
     <string name="anchor_invitations_events_3"><![CDATA[আপনার বন্ধুদের একজন অ্যাঙ্কর হতে আমন্ত্রণ জানান]]></string>
     <string name="anchor_invitations_events_4"><![CDATA[নগদ পান]]></string>
-    <string name="anchor_invitations_events_5"><![CDATA[]]></string>
     <string name="anchor_invitations_events_6"><![CDATA[পুরস্কার বিবরণ]]></string>
     <string name="anchor_invitations_events_7"><![CDATA[এখনই আমন্ত্রণ জানান]]></string>
     <string name="anchor_invitations_events_8"><![CDATA[3টি ধাপে নগদ পান]]></string>
@@ -6596,33 +6568,12 @@
     <string name="anchor_invitations_events_im3"><![CDATA[আপনার গিল্ডে %1 পার্টিস্টারে %2 কে আমন্ত্রণ জানিয়েছে এবং আপনার গিল্ডে যোগ দিয়েছে!]]></string>
     <string name="anchor_invitations_events_69"><![CDATA[বর্তমান ইভেন্টে শুধুমাত্র অ্যাঙ্কররা অংশগ্রহণ করতে পারবেন]]></string>
     <string name="chatroom_custom_background_card_sending_notice"><![CDATA["বন্ধু %1 থেকে একটি কাস্টমাইজড রুম ব্যাকগ্রাউন্ড কার্ড পেয়েছি৷\nঅনুগ্রহ করে %2 এর আগে এটি ব্যবহার করুন। আপনি এটি পরীক্ষা করতে এবং ব্যবহার করতে [রুম পটভূমি]-[কাস্টমাইজ] ট্যাবে যেতে পারেন।"]]></string>
-    <string name="anchor_invitations_events_70"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_71"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_72"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_73"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_74"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_75"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_76"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_77"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_78"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_79"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_80"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_81"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_1"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_2"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_3"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_4"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_5"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_6"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_7"><![CDATA[]]></string>
     <string name="system_maintenance_server_tips"><![CDATA[Sorry~The system is under maintenance and is temporarily unavailable.]]></string>
     <string name="face_verification_tips30"><![CDATA[It is expected to be restored after %1 (UTC+3).]]></string>
     <string name="face_verification_tips31"><![CDATA[Please perform face verification first]]></string>
     <string name="game_room_setting_sound"><![CDATA[Game room sound]]></string>
     <string name="game_room_setting_sound_1"><![CDATA[Game room sound: After turning off, game sound will not be played in the game room.]]></string>
-    <string name="face_verification_tips32"><![CDATA[]]></string>
     <string name="gift_interactive_gift_tab_title"><![CDATA[মিথষ্ক্রিয়ভাবে]]></string>
-    <string name="crash_name"><![CDATA[]]></string>
     <string name="crash_Round"><![CDATA[গোলাকার]]></string>
     <string name="crash_Bet"><![CDATA[বাজি]]></string>
     <string name="crash_Win"><![CDATA[জয়]]></string>
@@ -6668,7 +6619,6 @@
     <string name="send_pop_up_button"><![CDATA[উপহার দেওয়ার জন্য কনফ্রিম]]></string>
     <string name="send_pop_up_click_button_tip1"><![CDATA[উপহারটি অনুপলব্ধ]]></string>
     <string name="send_pop_up_click_button_tip2"><![CDATA[এই উপহারটি আনলক করা হয়নি]]></string>
-    <string name="biggest_supporter_message"><![CDATA[]]></string>
     <string name="biggest_supporter_message_button"><![CDATA[বিস্তারিত দেখুন]]></string>
     <string name="biggest_supporter_rule_topic"><![CDATA[বিধি]]></string>
     <string name="biggest_supporter_rule1"><![CDATA[1. যে ব্যবহারকারী রুমে প্রতিবার সবচেয়ে বেশি উপহার পাঠাবেন তিনিই হয়ে উঠবেন সবচেয়ে বড় সমর্থক]]></string>

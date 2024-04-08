@@ -78,7 +78,6 @@
     <string name="setting_withdraw_cash"><![CDATA[Số tiền rút]]></string>
     <string name="setting_account_money"><![CDATA[Nhận tiền RMB%1]]></string>
     <string name="setting_few_charm_to_charge"><![CDATA[%1 độ thu hút được đổi thành tổng số tiền %2]]></string>
-    <string name="setting_bank"><![CDATA[]]></string>
     <string name="setting_eg_bank"><![CDATA[Ví dụ: China Merchants Bank]]></string>
     <string name="setting_bank_num"><![CDATA[Tài khoản ngân hàng]]></string>
     <string name="setting_eg_bank_num"><![CDATA[Ví dụ: 6225888888888888]]></string>
@@ -103,7 +102,6 @@
     <string name="setting_notice_unbind"><![CDATA[Có hủy liên kết số %1này không?]]></string>
     <string name="setting_bind_success"><![CDATA[liên kết thành công]]></string>
     <string name="setting_check_failed_cant_modify"><![CDATA[Xác minh thất bại, không thay đổi được]]></string>
-    <string name="setting_set_success"><![CDATA[]]></string>
     <string name="setting_input_phone_bind"><![CDATA[Điền SĐT để liên kết]]></string>
     <string name="setting_notice_change_phone"><![CDATA[Có đổi SĐT không?]]></string>
     <string name="setting_input_safe_phone_bind"><![CDATA[Xin nhập SĐT an toàn để liên kết]]></string>
@@ -136,18 +134,10 @@
     <string name="setting_bank_name_notice"><![CDATA[Tên tài khoản ngân hàng phải nhất trí với tên giấy chứng ming nhân dân, ̣điền sai thì không chuyển khoản được]]></string>
     <string name="setting_bank_num_notice"><![CDATA[Điền sai tài khoản ngân hàng thì sẽ không chuyển khoản được, xin điền cẩn thận]]></string>
     <string name="setting_please_choose_bank"><![CDATA[Vui lòng chọn ngân hàng]]></string>
-    <string name="setting_info_not_perfect"><![CDATA[]]></string>
-    <string name="setting_ap_invalid_format"><![CDATA[]]></string>
     <string name="setting_check_withdraw_info"><![CDATA[Xin xác nhận thông tin rút tiền của bạn có phải thuộc về bản thân và điền chính xác không? Nếu điền sai thì sẽ không chuyển khoản được và sau khi nộp thông tin rút tiền thì không chỉnh sửa được. \n Họ tên:%1  \n Tên tài khoản ngân hàng:%2 \n Số CMND:%3 \n Ngân hàng:%4 \n Số thẻ ngân hàng:%5 \n Thành phố đăng ký tài khoản:%6 \n Ngân hàng chi nhánh đăng ký tài khoản:%7 \n Tài khoản Alipay:%8 \n]]></string>
-    <string name="setting_submit_wait_check"><![CDATA[]]></string>
-    <string name="setting_choose_p_type"><![CDATA[]]></string>
     <string name="setting_cant_charge_minor_mode"><![CDATA[Chế độ tuổi teen không được nạp tiền]]></string>
-    <string name="setting_choose_charge_money"><![CDATA[]]></string>
-    <string name="setting_charge_balance"><![CDATA[]]></string>
-    <string name="setting_p_few"><![CDATA[]]></string>
     <string name="setting_minor_model_limit"><![CDATA[Nếu trẻ vị thành niên có thể sử dụng điện thoại của bạn, góp ý bạn bật chế độ tuổi teen, chúng tôi sẽ hạn chế hành vi của tài khoản này như sau:]]></string>
     <string name="setting_provide_minor_content"><![CDATA[Chỉ cung cấp nội dung thích hợp với trẻ vị thành niên]]></string>
-    <string name="setting_cant_charge_charm"><![CDATA[]]></string>
     <string name="setting_cant_apply_qualification"><![CDATA[Không thể xin tư cách]]></string>
     <string name="setting_cant_use_time"><![CDATA[22:00 mỗi tối~06:00 ngày mới không dùng được]]></string>
     <string name="setting_limit_use_time_every"><![CDATA[Thời gian sử dụng mỗi ngày có hạn là 40 phút]]></string>
@@ -170,7 +160,6 @@
     <string name="setting_invalid_state"><![CDATA[Trạng thái bị lỗi]]></string>
     <string name="setting_account_delete_condition_lable"><![CDATA[Hủy tài khoản cần đáp ứng điều kiện như sau:]]></string>
     <string name="setting_account_delete_condition"><![CDATA[1. Không có hoạt động bất thường hoặc nhạy cảm trong vòng 30 ngày (đăng nhập từ xa, thay đổi liên kết đăng nhập của bên thứ ba)\n\n2. Tài khoản không bị cấm vĩnh viễn\n\n3. Không có đơn đặt hàng dịch vụ chưa hoàn thành\n\n4. Không có gia tộc/nhóm nào được tạo ra mà không bị giải thể và gia tộc/nhóm bạn đã tham gia mà chưa rời đi]]></string>
-    <string name="setting_account_delete_will_be_lable"><![CDATA[]]></string>
     <string name="setting_account_delete_will_be"><![CDATA[1. Không thể đăng nhập vào ứng dụng này, tất cả thông tin sẽ bị xóa vĩnh viễn\n\n2. Liên kết bên thứ ba sẽ không bị xóa và liên kết ban đầu của bên thứ ba không thể đăng ký hoặc liên kết các tài khoản khác trong vòng 90 ngày sau khi hủy liên kết.\n\n3. Ví tài khoản sẽ bị trống, các hàng  trong Ba lô, phiếu giảm giá, cấp độ VIP, KOL và các đặc quyền, danh hiệu khác, và các tước vị/bảo vệ cá nhân/bảo vệ radio chưa hết hạn sẽ bị vô hiệu và không thể khôi phục]]></string>
     <string name="setting_apply_delete_account"><![CDATA[Xin hủy tài khoản]]></string>
     <string name="setting_apply_delete_wait_check"><![CDATA[Đã nộp đơn xin\nXin chờ nhân viên phê duyệt]]></string>
@@ -269,7 +258,6 @@
     <string name="setting_pop_anchor_desc"><![CDATA[KOL tại các app Huya và Douyu]]></string>
     <string name="setting_pop_human"><![CDATA[Người nổi tiếng]]></string>
     <string name="setting_pop_human_desc"><![CDATA[Thành viên đang hoạt động/đã nghỉ hưu của các đội nổi tiếng trong các trò chơi như LOL, PUBG, Arena of Valor v.v hoặc những nhân vật nổi tiếng khác trong ngành]]></string>
-    <string name="setting_check_success"><![CDATA[]]></string>
     <string name="setting_send_apply"><![CDATA[Nộp đơn xin]]></string>
     <string name="setting_setup_game_family_id"><![CDATA[Cài đặt ID Agency]]></string>
     <string name="setting_input_game_family_id"><![CDATA[Xin nhập ID Agency]]></string>
@@ -726,7 +714,6 @@
     <string name="nobility_sub_quarter"><![CDATA[Hàng quý]]></string>
     <string name="nobility_sub_year"><![CDATA[Hàng năm]]></string>
     <string name="nobility_residue_days"><![CDATA[Còn %1 ngày]]></string>
-    <string name="nobility_validity_to"><![CDATA[]]></string>
     <string name="nobility_renewal"><![CDATA[Gia hạn]]></string>
     <string name="nobility_auto_buy_declaration_detail_andriod"><![CDATA[Thanh toán: Sau khi người dùng xác nhận mua hàng và thanh toán, nó sẽ được ghi có vào tài khoản Google play.\nGia hạn: Người bán sẽ tính phí đăng ký cao cấp theo gói đã chọn và bạn có thể hủy đăng ký bất kỳ lúc nào trong Google Play. Gói sẽ tự động được gia hạn cho đến khi bạn hủy bỏ.\nHủy gia hạn: Nếu bạn cần hủy gia hạn, vui lòng hủy đăng ký theo cách thủ công trong Google play 24 giờ trước khi thời gian đăng ký hết hạn. Nếu bạn hủy trong vòng 24 giờ trước khi thời hạn đăng ký hết hạn, Google Play có thể tự động khấu trừ phí dịch vụ cho thời gian đăng ký tiếp theo và sau đó dừng dịch vụ.]]></string>
     <string name="nobility_buy_next_step"><![CDATA[Tiếp theo]]></string>
@@ -4941,7 +4928,6 @@
     <string name="live_call_cancel"><![CDATA[Hủy thành công trò chuyện]]></string>
     <string name="live_call_host_mute"><![CDATA[Idol đã tắt mic của bạn]]></string>
     <string name="live_call_host_unmute"><![CDATA[Idol đã bật mic của bạn]]></string>
-    <string name="live_call_end"><![CDATA[]]></string>
     <string name="live_call_calling_not_available"><![CDATA[Không được thao tác trong khi trò chuyện]]></string>
     <string name="live_call_calling_accepted"><![CDATA[Bạn đã sẵn sàng chưa? Idol đã chấp nhận lời mời đế trò chuyện, đang kết nối...]]></string>
     <string name="live_call_host_not_open"><![CDATA[Idol chưa kích hoạt chức năng trò chuyện với người dùng]]></string>
@@ -5357,7 +5343,6 @@
     <string name="party_star_family_announcement_tip"><![CDATA[Vui lòng nhập thông báo gia tộc]]></string>
     <string name="party_star_family_name_tip"><![CDATA[Vui lòng nhập tên gia tộc]]></string>
     <string name="vip_30_day_price"><![CDATA[%1 / 30 ngày]]></string>
-    <string name="chatroom_background_music_list"><![CDATA[]]></string>
     <string name="chatroom_background_music_list_tips"><![CDATA[Danh sách phát hiện tại trống, vui lòng thêm nhạc.]]></string>
     <string name="chatroom_background_music_import"><![CDATA[nhập nhạc]]></string>
     <string name="chatroom_background_music_upload"><![CDATA[tải nhạc lên]]></string>
@@ -5594,8 +5579,6 @@
     <string name="common_customization"><![CDATA[Tự định nghĩa]]></string>
     <string name="chatroom_room_task_rule_112"><![CDATA[Đã đăng nhập]]></string>
     <string name="phone_time_not_match_server_time."><![CDATA[Bị lỗi, thời gian được đặt trên điện thoại không khớp với thời gian của máy chủ.]]></string>
-    <string name="notify_click_to_chat"><![CDATA[]]></string>
-    <string name="notify_click_to_live"><![CDATA[]]></string>
     <string name="recharge_limit_tips_1"><![CDATA[Kênh nạp tiền hiện tại tạm thời không sử dụng được. Nạp tiền qua đại lý để nhận thêm kim cương]]></string>
     <string name="recharge_limit_tips_2"><![CDATA[Kênh nạp tiền hiện tại tạm thời không sử dụng được, vui lòng thử lại sau]]></string>
     <string name="lucky_gift_prize_pool_maintenance_closed"><![CDATA[Nhóm giải thưởng đang được bảo trì và tạm thời đóng cửa.]]></string>
@@ -5666,7 +5649,6 @@
     <string name="Invitation_centerp_h5_illustrate4"><![CDATA[1. Mở trang trung tâm mời bạn, sao chép mã mời của tôi và gửi cho người dùng mà bạn muốn mời]]></string>
     <string name="Invitation_centerp_h5_illustrate5"><![CDATA[2. Sau khi người dùng bạn mời tải về và đăng ký, hãy nhấp vào mã mời trong trang cá nhân, nhập mã mời của bạn để hoàn thành liên kết]]></string>
     <string name="Invitation_centerp_h5_copy"><![CDATA[Đã sao chép mã mời bạn, đi chia sẻ với bạn]]></string>
-    <string name="Invitation_centerp_h5_date"><![CDATA[]]></string>
     <string name="share_messenger_not_installed"><![CDATA[Chưa tải về Messenger]]></string>
     <string name="share_line_not_installed"><![CDATA[Chưa tải về Line]]></string>
     <string name="share_instagram_not_installed"><![CDATA[Chưa tải về Instagram]]></string>
@@ -6072,12 +6054,10 @@
     <string name="whether_save_setting"><![CDATA[Có lưu trữ cài đặt không?]]></string>
     <string name="this_category_need_vertify_by_video"><![CDATA[Loại hình này cần xác minh video mới mở được]]></string>
     <string name="auto_accept_invite"><![CDATA[Tự động chấp nhận lời mời]]></string>
-    <string name="new_aptitude"><![CDATA[]]></string>
     <string name="juveniles_cant_apply_for_aptitude"><![CDATA[Không xin được tư cách dưới chế độ trẻ vị thành nên]]></string>
     <string name="accept_invite"><![CDATA[Chấp nhận lời mời]]></string>
     <string name="invite_call_notification"><![CDATA[Thông báo cuộc gọi mời]]></string>
     <string name="speediness_invite"><![CDATA[Mời ngay lập tức]]></string>
-    <string name="reception_hall"><![CDATA[]]></string>
     <string name="shield_hasnt_vertify_users_msg"><![CDATA[Chặn tin nhắn của người dùng chưa xác minh]]></string>
     <string name="aptitude_setting"><![CDATA[Cài đặt tư cách]]></string>
     <string name="order_submit"><![CDATA[Nộp]]></string>
@@ -6105,14 +6085,12 @@
     <string name="supplementary_instruction"><![CDATA[Bổ sung giải thích]]></string>
     <string name="please_select_refund_reason"><![CDATA[Xin chọn nguyên nhân hoàn tiền]]></string>
     <string name="order_user_attitude"><![CDATA[Thái độ người dùng]]></string>
-    <string name="order_service_attitude"><![CDATA[]]></string>
     <string name="how_manito_service"><![CDATA[Bán đánh giá sự phục vụ của thiên thần thế nào?]]></string>
     <string name="please_describe_evalution"><![CDATA[Xin bạn miêu tả cảm giác và đánh giá đối với người dùng này]]></string>
     <string name="anonymity_evaluate"><![CDATA[Bình luận ẩn tên]]></string>
     <string name="order_select_tag"><![CDATA[Chọn thẻ tag]]></string>
     <string name="order_invite_evaluate"><![CDATA[Đánh giá cuộc mời]]></string>
     <string name="please_evaluate_this_order"><![CDATA[Xin đánh giá cuộc mời lần này]]></string>
-    <string name="order_bottom_button_title"><![CDATA[]]></string>
     <string name="order_cant_receive_msg"><![CDATA[Không chấp nhận tin nhắn của những người dùng chưa có lịch sử mời thành công]]></string>
     <string name="place_an_order"><![CDATA[Đặt đơn]]></string>
     <string name="order_select_way"><![CDATA[Chọn cách]]></string>
@@ -6142,7 +6120,6 @@
     <string name="order_invite_history"><![CDATA[Lịch Sử Đặt Đơn]]></string>
     <string name="order_invite_play"><![CDATA[Mời]]></string>
     <string name="order_invite_play_success"><![CDATA[Mời thành công]]></string>
-    <string name="order_discount"><![CDATA[]]></string>
     <string name="selectorlocation"><![CDATA[Vị trí]]></string>
     <string name="video_error_retry"><![CDATA[Bị lỗi, xin thử lại]]></string>
     <string name="video_face_value"><![CDATA[Vẻ đẹp]]></string>
@@ -6263,7 +6240,6 @@
     <string name="cer_please_input_game_id"><![CDATA[Vui lòng nhập ID trò chơi]]></string>
     <string name="cer_please_upload_cover"><![CDATA[Vui lòng tải lên bìa lớp]]></string>
     <string name="cer_please_input_level"><![CDATA[Xin hãy điền vào cấp đại thần]]></string>
-    <string name="please_select_emoji_tag"><![CDATA[]]></string>
     <string name="wechat_area"><![CDATA[Khu Wechat]]></string>
     <string name="premade_playing"><![CDATA[Đang chơi]]></string>
     <string name="premade_select_game"><![CDATA[Chọn game:]]></string>
@@ -6422,7 +6398,6 @@
     <string name="fleet_already_creat_family"><![CDATA[Bạn đã tạo thành công một gia tộc]]></string>
     <string name="fleet_network_error_retry"><![CDATA[Ngoại lệ mạng, vui lòng thử lại]]></string>
     <string name="fleet_family_name_limit"><![CDATA[3-4 ký tự (chữ cái tiếng Anh, số, -),\nKý tự đầu tiên phải là một chữ cái tiếng Anh]]></string>
-    <string name="fleet_please_input_family_name"><![CDATA[]]></string>
     <string name="fleet_already_read_agree"><![CDATA[tôi đã đọc và đồng ý]]></string>
     <string name="fleet_create_family_protcol"><![CDATA[Tạo Thỏa thuận Dịch vụ Gia tộc]]></string>
     <string name="fleet_complete"><![CDATA[Hoàn thành]]></string>
@@ -6430,7 +6405,6 @@
     <string name="fleet_cancel_request"><![CDATA[hủy bỏ ứng dụng]]></string>
     <string name="fleet_creator"><![CDATA[người sáng lập]]></string>
     <string name="fleet_input_name"><![CDATA[Nhập tên gia tộc]]></string>
-    <string name="fleet_input_title"><![CDATA[]]></string>
     <string name="fleet_input_desc"><![CDATA[Nhập hồ sơ gia tộc]]></string>
     <string name="fleet_add"><![CDATA[Thêm vào]]></string>
     <string name="fleet_apply_people"><![CDATA[Áp dụng]]></string>
@@ -7183,8 +7157,6 @@
     <string name="game_coupon_greedy_dialog_text"><![CDATA[Bạn có %1 phiếu giảm giá  Greedy cho %2💎 và các phiếu giảm giá này sẽ được sử dụng đầu tiên để khấu trừ.]]></string>
     <string name="common_dialog_do_not_show_again"><![CDATA[Đừng nhắc lại nữa]]></string>
     <string name="fb_register_limit_tips"><![CDATA[Bạn tạm thời không thể đăng ký bằng tài khoản Facebook này, vui lòng sử dụng tài khoản đã đăng ký để đăng nhập]]></string>
-    <string name="greedy_toast_coupon_expired"><![CDATA[]]></string>
-    <string name="game_coupon_obtain_push"><![CDATA[]]></string>
     <string name="chatroom_room_skin_entrance"><![CDATA[skin phòng]]></string>
     <string name="chatroom_room_skin_popup_tab1"><![CDATA[hiệu ứng ghế]]></string>
     <string name="chatroom_room_skin_popup_tab2"><![CDATA[skin ghế]]></string>
@@ -7224,7 +7196,6 @@
     <string name="super_administrator_im_2"><![CDATA[Bạn bị cấm phòng live vì %1 và bạn sẽ có thể bắt đầu phát trực tiếp sau %2.]]></string>
     <string name="game_coupon_instruction_slot"><![CDATA[Bạn có %1 phiếu giảm giá Slot cho %2💎 và phiếu giảm giá sẽ được sử dụng trước tiên để khấu trừ.]]></string>
     <string name="liveroom_beauty_sticker"><![CDATA[Sticker]]></string>
-    <string name="teenpatti_roomowner_share"><![CDATA[]]></string>
     <string name="patrol_operation_tips_2"><![CDATA[Danh tính hiện tại không hoạt động]]></string>
     <string name="DragonTiger_title"><![CDATA[Rồng hổ chiến]]></string>
     <string name="DragonTiger_tips_1"><![CDATA[Đặt cược của bạn trong vòng %1 hôm nay không thành công do các yếu tố không thể kiểm soát được chẳng hạn như sự chậm trễ của mạng và đã được trả lại vào tài khoản của bạn.]]></string>
@@ -7347,7 +7318,6 @@
     <string name="recruitment_centre20"><![CDATA[Số người Agency: %1]]></string>
     <string name="recruitment_centre21"><![CDATA[Thời gian mời: %1]]></string>
     <string name="recruitment_centre22"><![CDATA[Kéo xuống để xem thêm]]></string>
-    <string name="mini_diamonds1"><![CDATA[]]></string>
     <string name="mini_diamonds_tip"><![CDATA[Số lượng kim cương mà người dùng đã nhận được trong phòng chat hoặc phòng live trong tháng này sẽ được thanh toán và tính lại vào cuối mỗi tháng. Idol có thể bấm vào thẻ hồ sơ cá nhân để chọn bật hoặc tắt màn hình.]]></string>
     <string name="mini_diamonds_button1"><![CDATA[Giấu kim cương của tháng này]]></string>
     <string name="mini_diamonds_button2"><![CDATA[Hiển thị kim cương của tháng này]]></string>
@@ -7433,7 +7403,6 @@
     <string name="face_verification_tips21"><![CDATA[Rất tiếc không thể nhận diện, hãy chắc chắn chính bạn đang thao tác. Khi xác minh, vui lòng giữ thẳng toàn bộ khuôn mặt, tránh che mặt và có đủ ánh sáng xung quanh.]]></string>
     <string name="recruitment_centre_name1"><![CDATA[Tên Team]]></string>
     <string name="recruitment_centre_name2"><![CDATA[Tên]]></string>
-    <string name="recruitment_centre_tips1"><![CDATA[]]></string>
     <string name="recruitment_centre_tips2"><![CDATA[Chọn thời gian bắt đầu không muộn hơn ngày hôm nay]]></string>
     <string name="recruitment_centre_tips3"><![CDATA[Chọn thời gian kết thúc không sớm hơn thời gian bắt đầu]]></string>
     <string name="recruitment_centre_tips4"><![CDATA[Chọn thời gian kết thúc không muộn hơn ngày hôm nay]]></string>
@@ -7662,11 +7631,6 @@
     <string name="anchor_invitations_events_38"><![CDATA[Tổng số người được mời:]]></string>
     <string name="anchor_invitations_events_39"><![CDATA[Thời gian cập nhật dữ liệu:]]></string>
     <string name="anchor_invitations_events_40"><![CDATA[Tên]]></string>
-    <string name="anchor_invitations_events_41"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_411"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_412"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_413"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_414"><![CDATA[]]></string>
     <string name="anchor_invitations_events_42"><![CDATA[Số lượng kim cương khi nhận quà phòng chat]]></string>
     <string name="anchor_invitations_events_43"><![CDATA[Số ngày phát sóng hiệu lực phòng chat]]></string>
     <string name="anchor_invitations_events_44"><![CDATA[Thời lượng phát sóng phòng chat hiệu quả]]></string>
@@ -7698,31 +7662,8 @@
     <string name="anchor_invitations_events_im3"><![CDATA[%1 trong team AGC của bạn đã mời %2 tham gia PartyStar và tham gia team AGC của bạn]]></string>
     <string name="anchor_invitations_events_69"><![CDATA[Chỉ người phát sóng mới có thể tham gia vào sự kiện hiện tại]]></string>
     <string name="chatroom_custom_background_card_sending_notice"><![CDATA["Nhận được thẻ nền phòng tùy chỉnh từ bạn bè %1. Hãy sử dụng trước %2, điều này có thể được xem trong phần 【Nền phòng】-【Tùy chỉnh】 để xem chi tiết và sử dụng phần thưởng.]]></string>
-    <string name="anchor_invitations_events_70"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_71"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_72"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_73"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_74"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_75"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_76"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_77"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_78"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_79"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_80"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_81"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_1"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_2"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_3"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_4"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_5"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_6"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_7"><![CDATA[]]></string>
-    <string name="system_maintenance_server_tips"><![CDATA[]]></string>
-    <string name="face_verification_tips30"><![CDATA[]]></string>
-    <string name="face_verification_tips31"><![CDATA[]]></string>
     <string name="game_room_setting_sound"><![CDATA[Hiệu ứng âm thanh phòng chơi game]]></string>
     <string name="game_room_setting_sound_1"><![CDATA[Hiệu ứng âm thanh phòng chơi game:Chế độ phòng chơi game sẽ không còn phát hiệu ứng âm thanh sau khi tắt.]]></string>
-    <string name="face_verification_tips32"><![CDATA[]]></string>
     <string name="gift_interactive_gift_tab_title"><![CDATA[Quà tương tác]]></string>
     <string name="crash_name"><![CDATA[Tên lửa]]></string>
     <string name="crash_Round"><![CDATA[Vòng]]></string>
@@ -7783,7 +7724,6 @@
     <string name="stickeer_reapeat_purchase"><![CDATA[Đã mua, vui lòng không mua lại]]></string>
     <string name="biggest_supporter_message1"><![CDATA[Xin chúc mừng]]></string>
     <string name="biggest_supporter_message2"><![CDATA[Trở thành người ủng hộ lớn nhất với [%2], và người nhận là]]></string>
-    <string name="biggest_support_gift_name"><![CDATA[]]></string>
     <string name="video_link_setup_floating_layout"><![CDATA[Bố trí cửa sổ nổi]]></string>
     <string name="video_link_setup_latice_layout"><![CDATA[Bố trí lưới]]></string>
     <string name="video_link_layout_popup_title"><![CDATA[Bạn có muốn chuyển đổi sang 【%1】]]></string>

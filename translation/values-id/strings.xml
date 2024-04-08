@@ -4484,7 +4484,6 @@
     <string name="invitation_toast_input_error"><![CDATA[Kode undangan yang Anda masukkan tidak valid, silakan hubungi teman Anda untuk mendapatkan dan memasukkan kode undangan yang benar]]></string>
     <string name="invitation_toast_input_empty"><![CDATA[Silakan masukkan kode undangan]]></string>
     <string name="invitation_system_notification_binding_successful"><![CDATA[%Nama Pengguna% (ID: %xxx%) telah berhasil mengikat hubungan undangan dengan Anda]]></string>
-    <string name="common_coins"><![CDATA[]]></string>
     <string name="sign_in_sevenday"><![CDATA[7 hari]]></string>
     <string name="daily_reward_days_not_enough"><![CDATA[Hadiah dapat diklaim setelah masuk selama {x} hari berturut-turut!]]></string>
     <string name="clown"><![CDATA[Badut]]></string>
@@ -4900,8 +4899,6 @@
     <string name="live_call_connecting"><![CDATA[Sedang membuka...]]></string>
     <string name="live_call_chatting"><![CDATA[Mengobrol...]]></string>
     <string name="live_call_disconnecting"><![CDATA[Memutuskan...]]></string>
-    <string name="live_call_mute"><![CDATA[]]></string>
-    <string name="live_call_unmute"><![CDATA[]]></string>
     <string name="live_call_hangup"><![CDATA[Tutup telepon]]></string>
     <string name="live_call_network_bad"><![CDATA[Jaringan host buruk]]></string>
     <string name="live_call_followed"><![CDATA[Mengikuti]]></string>
@@ -4948,7 +4945,6 @@
     <string name="live_call_cancel"><![CDATA[Berhasil membatalkan panggilan]]></string>
     <string name="live_call_host_mute"><![CDATA[Host telah mematikan mikrofon anda]]></string>
     <string name="live_call_host_unmute"><![CDATA[Host telah mengaktifkan mikrofon anda]]></string>
-    <string name="live_call_end"><![CDATA[]]></string>
     <string name="live_call_calling_not_available"><![CDATA[Tidak dapat dioperasikan dalam panggilan]]></string>
     <string name="live_call_calling_accepted"><![CDATA[Apakah anda sudah siap? Host telah menerima undangan panggilan, menghubungkan...]]></string>
     <string name="live_call_host_not_open"><![CDATA[Host belum mengaktifkan fungsi panggilan dengan pengguna]]></string>
@@ -5080,7 +5076,6 @@
     <string name="liveroom_PK_mode_exchange_call_start_pk"><![CDATA[Anda sedang dalam panggilan suara, yakin ingin memutuskan fungsi PK?]]></string>
     <string name="liveroom_PK_host_muted_mic"><![CDATA[Host telah dibisukan]]></string>
     <string name="liveroom_PK_ing_cant_start_call"><![CDATA[Host dalam PK, tidak dapat mengundang untuk panggilan]]></string>
-    <string name="liveroom_PK_goto_another_room"><![CDATA[]]></string>
     <string name="liveroom_ended_dialog_host_text"><![CDATA[Siaran langsung anda dihentikan karena dicurigai %1]]></string>
     <string name="chatroom_scoreboard_name"><![CDATA[Papan skor]]></string>
     <string name="chatroom_scoreboard_time_select"><![CDATA[Pilih durasi]]></string>
@@ -5116,8 +5111,6 @@
     <string name="chatroom_scoreboard_rule_1"><![CDATA[Q: Apa itu papan skor?]]></string>
     <string name="chatroom_scoreboard_rule_2"><![CDATA[A: Nyalakan papan skor, pengguna di kursi akan mendapatkan skor dan ditampilkan di bawah avatar pengguna saat mereka menerima hadiah;]]></string>
     <string name="chatroom_scoreboard_rule_3"><![CDATA[Q: Apa kegunaan dari papan skor?]]></string>
-    <string name="chatroom_scoreboard_rule_4"><![CDATA[]]></string>
-    <string name="chatroom_scoreboard_rule_5"><![CDATA[]]></string>
     <string name="chatroom_scoreboard_rule_6"><![CDATA[A: Pemilik ruangan dapat memulai kompetisi PK antara semua orang melalui papan skor di dalam ruangan dan menentukan pemenang dalam jangka waktu tertentu melalui poin masing-masing pengguna; pemilik rumah dapat mengatur ulang penghitungan skor dengan mengakhiri putaran saat ini , dengan demikian memulai babak baru kompetisi;]]></string>
     <string name="chatroom_scoreboard_rule_7"><![CDATA[Q: Apa arti dari akhiri babak?]]></string>
     <string name="chatroom_scoreboard_rule_8"><![CDATA[A: Setelah menyalakan papan skor, pemilik ruangan mengklik tombol akhir pengatur waktu untuk mengakhiri babak penilaian saat ini, pada saat yang sama menghapus poin dari semua pengguna di kursi, sehingga babak baru kompetisi dapat dimulai ; "Akhiri babak" hanya akan menghapus skor dan tidak akan memengaruhi jumlah kacang emas/ poin pesona yang didapat pengguna;]]></string>
@@ -5186,7 +5179,6 @@
     <string name="gift_name_7"><![CDATA[Donat]]></string>
     <string name="gift_name_8"><![CDATA[Peti harta karun]]></string>
     <string name="lucky_gift_send"><![CDATA[Menghadiahi]]></string>
-    <string name="lucky_gift_send_1"><![CDATA[]]></string>
     <string name="lucky_gift_describe"><![CDATA[Pemberian hadiah ini berpeluang mendapatkan hadiah diamond sebesar 1-2000 kali lipat dari nilai hadiahnya, semakin banyak anda memberi maka semakin banyak pula anda menang.]]></string>
     <string name="lucky_gift_Winning_record"><![CDATA[Riwayat kemenangan]]></string>
     <string name="lucky_gift_rule"><![CDATA[Peraturan]]></string>
@@ -5223,7 +5215,6 @@
     <string name="common_manager_rule_a2"><![CDATA[Pemilik ruangan dapat mengeklik "Tetapkan sebagai administrator" di kartu profil pengguna mana pun di ruang siaran langsung untuk menambahkan mereka sebagai administrator ruangan anda.]]></string>
     <string name="common_manager_rule_q3"><![CDATA[3. Bagaimana cara membatalkan administrator ruangan?]]></string>
     <string name="common_manager_rule_a3"><![CDATA[Pemilik rungan dapat membatalkan administrator di kartu profil administrator atau di daftar administrator.]]></string>
-    <string name="lucky_gift_billing_details_1"><![CDATA[]]></string>
     <string name="liveroom_PK_Random_low_version_tips"><![CDATA[Perbarui ke versi terbaru untuk menggunakan]]></string>
     <string name="party_star_feed_loading_error_tips_1"><![CDATA[Jaringan tidak lancar, gagal memuat.]]></string>
     <string name="party_star_feed_loading_error_tips_2"><![CDATA[Muat ulang]]></string>
@@ -5277,7 +5268,6 @@
     <string name="share_notification"><![CDATA[%1 sudah membagikan ruang ini]]></string>
     <string name="share_h5_title"><![CDATA[Selamat datang di ruang %1]]></string>
     <string name="share_whatsapp_button"><![CDATA[Tidak install WhatsApp]]></string>
-    <string name="red_packet_error_account_banned"><![CDATA[]]></string>
     <string name="ktv_upload_lyrics"><![CDATA[3. Unggah lirik]]></string>
     <string name="ktv_no_lyrics"><![CDATA[Belum ada lirik]]></string>
     <string name="vip_title_privileges"><![CDATA[Hak istimewa VIP]]></string>
@@ -5389,25 +5379,6 @@
     <string name="login_phone_no_account"><![CDATA[Tidak ada akun terkait dengan nomor telepon ini]]></string>
     <string name="ktv_ios_address_copied"><![CDATA[Alamat disalin]]></string>
     <string name="ktv_ios_add_songs"><![CDATA[Tambahkan lagu]]></string>
-    <string name="common_back"><![CDATA[]]></string>
-    <string name="game_mode_1v1"><![CDATA[]]></string>
-    <string name="game_mode_4_players"><![CDATA[]]></string>
-    <string name="common_bets"><![CDATA[]]></string>
-    <string name="common_match"><![CDATA[]]></string>
-    <string name="game_first_place"><![CDATA[]]></string>
-    <string name="game_second_place"><![CDATA[]]></string>
-    <string name="game_matching"><![CDATA[]]></string>
-    <string name="game_cancel_match"><![CDATA[]]></string>
-    <string name="game_match_successfully"><![CDATA[]]></string>
-    <string name="common_sound_effects"><![CDATA[]]></string>
-    <string name="common_quit"><![CDATA[]]></string>
-    <string name="game_quie_dialog_content"><![CDATA[]]></string>
-    <string name="common_room_id"><![CDATA[]]></string>
-    <string name="common_follow"><![CDATA[]]></string>
-    <string name="game_say_something"><![CDATA[]]></string>
-    <string name="game_ludo"><![CDATA[]]></string>
-    <string name="game_carrom"><![CDATA[]]></string>
-    <string name="game_billiards"><![CDATA[]]></string>
     <string name="login_feedback_content_tip"><![CDATA[Silakan isi masalah yang dihadapi, jika sulit untuk dideskripsikan bisa langsung dikirimkan]]></string>
     <string name="chatroom_background_music_format_request"><![CDATA[Hanya format .mp3 .aac .flac didukung]]></string>
     <string name="chatroom_room_pk_team_PK"><![CDATA[PK tim]]></string>
@@ -5534,7 +5505,6 @@
     <string name="chatroom_roomtheme_popup_renewuse"><![CDATA[Pembaruan berhasil! Apakah Anda ingin langsung menggunakannya?]]></string>
     <string name="app_invite_public_test_desc"><![CDATA[Versi baru akan segera dirilis, dan Anda diundang untuk mencoba fitur-fitur baru dari versi beta terlebih dahulu!]]></string>
     <string name="partystar_item_rain_coming_soon"><![CDATA[Siap? Akan segara dimulai!]]></string>
-    <string name="partystar_item_rain_falling_duration"><![CDATA[]]></string>
     <string name="partystar_item_rain_falling_collect_popup_1"><![CDATA[Selamat]]></string>
     <string name="partystar_item_rain_falling_collect_popup_2"><![CDATA[Jumlah yang anda dapatkan]]></string>
     <string name="partystar_item_rain_falling_collect_popup_3"><![CDATA[OK]]></string>
@@ -5545,18 +5515,7 @@
     <string name="chatroom_quick_gift_sending_tips_2"><![CDATA[Tidak ada pengingat selanjutnya]]></string>
     <string name="chatroom_quick_gift_sending_tips_3"><![CDATA[Kirim]]></string>
     <string name="chatroom_quick_gift_sending_tips_4"><![CDATA[Quick Gift sudah online]]></string>
-    <string name="chatroom_room_task_level_icon"><![CDATA[]]></string>
-    <string name="chatroom_room_task_level"><![CDATA[]]></string>
-    <string name="chatroom_room_task_level_points"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_1"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_2"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_3"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_4"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_5"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_6"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_7"><![CDATA[]]></string>
     <string name="chatroom_room_task_rule_8"><![CDATA[Pergi]]></string>
-    <string name="chatroom_room_task_rule_9"><![CDATA[]]></string>
     <string name="chatroom_room_task_rule_10"><![CDATA[Check in（%1/%2 Exp）]]></string>
     <string name="chatroom_room_task_rule_11"><![CDATA[Setiap user yang check in menambah 10 exp]]></string>
     <string name="chatroom_room_task_rule_12"><![CDATA[Tinggal di room selama 1 menit (%1/%2 Exp)]]></string>
@@ -5565,7 +5524,6 @@
     <string name="chatroom_room_task_rule_15"><![CDATA[Setiap user yang tinggal di room selama 3 menit menambah 10 exp]]></string>
     <string name="chatroom_room_task_rule_16"><![CDATA[Kirim gift (%1/%2 Exp)]]></string>
     <string name="chatroom_room_task_rule_17"><![CDATA[1 diamond = 10 exp]]></string>
-    <string name="chatroom_room_task_rule_18"><![CDATA[]]></string>
     <string name="list_template_share_content1"><![CDATA[Hai! Bergabunglah dengan acara ini dan menangkan hadiah keren]]></string>
     <string name="list_template_share_content2"><![CDATA[Jangan lewatkan kesempatan anda untuk memenangkan hadiah yang luar biasa, bergabunglah sekarang dan anda berkesempatan untuk menang!]]></string>
     <string name="list_template_share_content3"><![CDATA[Saya berpartisipasi dalam acara ini, ayo anda juga!]]></string>
@@ -5577,7 +5535,6 @@
     <string name="list_template_share_succeed"><![CDATA[Berhasil dibagikan]]></string>
     <string name="list_template_share_fail"><![CDATA[Gagal dibagikan]]></string>
     <string name="list_template_share_openapp"><![CDATA[Buka aplikasi]]></string>
-    <string name="Recharge_Template_Rewards_Notice"><![CDATA[]]></string>
     <string name="SicBo_Top5"><![CDATA[Top5]]></string>
     <string name="SicBo_New"><![CDATA[Baru]]></string>
     <string name="SicBo_Other_Players"><![CDATA[Pemain]]></string>
@@ -5595,7 +5552,6 @@
     <string name="SicBo_you_win"><![CDATA[Anda menang]]></string>
     <string name="SicBo_you_win_1"><![CDATA[Menang %1]]></string>
     <string name="SicBo_you_win_2"><![CDATA[+%1]]></string>
-    <string name="SicBo_rule"><![CDATA[]]></string>
     <string name="SicBo_tips_1"><![CDATA[Taruhan anda pada putaran %1 hari ini tidak berhasil karena faktor yang tidak dapat dikendalikan seperti keterlambatan jaringan, telah dikembalikan ke akun anda.]]></string>
     <string name="SicBo_tips_2"><![CDATA[Jeda]]></string>
     <string name="SicBo_tips_3"><![CDATA[Permainan ini masih dalam tahap awal pembetulan bug dan memerlukan pemeliharaan sementara, sehingga untuk sementara tidak dapat memasang taruhan.]]></string>
@@ -5798,7 +5754,6 @@
     <string name="chatroom_room_task_daily_list_title"><![CDATA[Daftar tugas harian]]></string>
     <string name="chatroom_room_task_rule_111"><![CDATA[Check in]]></string>
     <string name="common_customization"><![CDATA[Custom]]></string>
-    <string name="chatroom_room_task_rule_112"><![CDATA[]]></string>
     <string name="phone_time_not_match_server_time."><![CDATA[Error, waktu yang diatur di phone tidak sesuai dengan waktu server.]]></string>
     <string name="notify_click_to_chat"><![CDATA[Klik untuk kembali ke ruang obrolan]]></string>
     <string name="notify_click_to_live"><![CDATA[Klik untuk kembali ke ruang siaran langsung]]></string>
@@ -5872,7 +5827,6 @@
     <string name="Invitation_centerp_h5_illustrate4"><![CDATA[1. Buka halaman Pusat Undangan, salin kode undangan saya dan kirim ke teman yang anda ingin undang.]]></string>
     <string name="Invitation_centerp_h5_illustrate5"><![CDATA[2. Setelah teman yang anda undang mengundug dan mendaftar, klik halaman diri - kode undangan, dan masukkan kode undangan anda untuk menyelesaikan pengikatan.]]></string>
     <string name="Invitation_centerp_h5_copy"><![CDATA[Kode undangan telah disalin, silakan bagikan ke teman Anda]]></string>
-    <string name="Invitation_centerp_h5_date"><![CDATA[]]></string>
     <string name="share_messenger_not_installed"><![CDATA[Belom install Messenger]]></string>
     <string name="share_line_not_installed"><![CDATA[Belom install Line]]></string>
     <string name="share_instagram_not_installed"><![CDATA[Belom install Instagram]]></string>
@@ -6298,8 +6252,6 @@
     <string name="game_coupon_greedy_dialog_text"><![CDATA[Anda memiliki %1 %2💎 kupon Greedy, yang akan dikreditkan dengan kupon terlebih dahulu.]]></string>
     <string name="common_dialog_do_not_show_again"><![CDATA[Jangan tampilkan lagi]]></string>
     <string name="fb_register_limit_tips"><![CDATA[Anda untuk sementara tidak dapat mendaftar dengan akun Facebook, silakan gunakan akun terdaftar untuk masuk]]></string>
-    <string name="greedy_toast_coupon_expired"><![CDATA[]]></string>
-    <string name="game_coupon_obtain_push"><![CDATA[]]></string>
     <string name="chatroom_room_skin_entrance"><![CDATA[Skin Ruangan]]></string>
     <string name="chatroom_room_skin_popup_tab1"><![CDATA[Efek Kursi]]></string>
     <string name="chatroom_room_skin_popup_tab2"><![CDATA[Skin Kursi]]></string>
@@ -6462,7 +6414,6 @@
     <string name="recruitment_centre20"><![CDATA[Jumlah anggota: %1]]></string>
     <string name="recruitment_centre21"><![CDATA[Waktu undangan: %1]]></string>
     <string name="recruitment_centre22"><![CDATA[Scroll ke bawah untuk melihat lebih lanjut]]></string>
-    <string name="mini_diamonds1"><![CDATA[]]></string>
     <string name="mini_diamonds_tip"><![CDATA[Jumlah berlian yang diterima pengguna sebagai hadiah di ruang live atau suara bulan ini akan dihapus dan dihitung ulang setiap akhir bulan. Tuan rumah dapat mengklik kartu profil ruangan untuk memilih menghidupkan atau mematikan tampilan.]]></string>
     <string name="mini_diamonds_button1"><![CDATA[Sembunyikan diamond bulan ini]]></string>
     <string name="mini_diamonds_button2"><![CDATA[Menunjukkan diamond bulan ini]]></string>
@@ -6545,7 +6496,6 @@
     <string name="face_verification_title2"><![CDATA[Hasil otentikasi]]></string>
     <string name="face_verification_tips19"><![CDATA[Selamat atas otentikasi Anda yang berhasil]]></string>
     <string name="face_verification_tips20"><![CDATA[Pengenalan gagal]]></string>
-    <string name="face_verification_tips21"><![CDATA[]]></string>
     <string name="recruitment_centre_name1"><![CDATA[Nama Agensi]]></string>
     <string name="recruitment_centre_name2"><![CDATA[Nama Agensi]]></string>
     <string name="recruitment_centre_tips1"><![CDATA[Waktu mulai pemilihan tidak boleh lebih lambat dari waktu berakhir]]></string>
@@ -6777,11 +6727,6 @@
     <string name="anchor_invitations_events_38"><![CDATA[Jumlah total undangan:]]></string>
     <string name="anchor_invitations_events_39"><![CDATA[Waktu pembaruan data:]]></string>
     <string name="anchor_invitations_events_40"><![CDATA[Nama]]></string>
-    <string name="anchor_invitations_events_41"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_411"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_412"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_413"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_414"><![CDATA[]]></string>
     <string name="anchor_invitations_events_42"><![CDATA[Diamond Hadiah Suara]]></string>
     <string name="anchor_invitations_events_43"><![CDATA[Jumlah efektif hari pada suara]]></string>
     <string name="anchor_invitations_events_44"><![CDATA[Waktu siaran efektif untuk suara]]></string>
@@ -6811,33 +6756,7 @@
     <string name="anchor_invitations_events_im1"><![CDATA[Luar biasa! Anda telah mengundang %1 orang bulan ini dan mendapatkan bonus $%2, cobalah untuk mendapatkan lebih banyak penghasilan bonus~!]]></string>
     <string name="anchor_invitations_events_im2"><![CDATA[Anda telah mengikat undangan dengan %1 untuk mendapatkan hadiah (%2). Semoga Anda bersenang-senang di PartyStar 😄!]]></string>
     <string name="anchor_invitations_events_im3"><![CDATA[%1 di Agencymu mengundang %2 ke PartyStar dan bergabung dengan Agencymu]]></string>
-    <string name="anchor_invitations_events_69"><![CDATA[]]></string>
     <string name="chatroom_custom_background_card_sending_notice"><![CDATA[Menerima kustom kartu background dari teman %1. \nSilakan gunakan sebelum %2. Anda dapat membuka tab [Background] - [Khusus] untuk memeriksa dan menggunakannya.]]></string>
-    <string name="anchor_invitations_events_70"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_71"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_72"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_73"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_74"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_75"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_76"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_77"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_78"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_79"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_80"><![CDATA[]]></string>
-    <string name="anchor_invitations_events_81"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_1"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_2"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_3"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_4"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_5"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_6"><![CDATA[]]></string>
-    <string name="anchor_invitations_clause_7"><![CDATA[]]></string>
-    <string name="system_maintenance_server_tips"><![CDATA[]]></string>
-    <string name="face_verification_tips30"><![CDATA[]]></string>
-    <string name="face_verification_tips31"><![CDATA[]]></string>
-    <string name="game_room_setting_sound"><![CDATA[]]></string>
-    <string name="game_room_setting_sound_1"><![CDATA[]]></string>
-    <string name="face_verification_tips32"><![CDATA[]]></string>
     <string name="gift_interactive_gift_tab_title"><![CDATA[Hadiah Interaktif]]></string>
     <string name="crash_name"><![CDATA[Roket]]></string>
     <string name="crash_Round"><![CDATA[Round]]></string>
@@ -6885,7 +6804,6 @@
     <string name="send_pop_up_button"><![CDATA[Konfirmasi Hadiah]]></string>
     <string name="send_pop_up_click_button_tip1"><![CDATA[Hadiah ini  tidak tersedia]]></string>
     <string name="send_pop_up_click_button_tip2"><![CDATA[Hadiah ini belum dibuka]]></string>
-    <string name="biggest_supporter_message"><![CDATA[]]></string>
     <string name="biggest_supporter_message_button"><![CDATA[Lihat Detail]]></string>
     <string name="biggest_supporter_rule_topic"><![CDATA[Aturan]]></string>
     <string name="biggest_supporter_rule1"><![CDATA[1. pengguna yang mengirim hadiah terbanyak di dalam ruangan akan menjadi supporter terbesar]]></string>

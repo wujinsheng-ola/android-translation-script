@@ -4490,7 +4490,6 @@
     <string name="invitation_toast_input_error"><![CDATA[رمز الدعوة الذي أدخلته غير صالح ، يرجى الاتصال بأصدقائك للحصول على رمز الدعوة الصحيح وإدخاله]]></string>
     <string name="invitation_toast_input_empty"><![CDATA[الرجاء إدخال رمز الدعوة]]></string>
     <string name="invitation_system_notification_binding_successful"><![CDATA[ربط٪ المستخدم٪ (المعرف:٪ xxx٪) علاقة دعوة معك بنجاح]]></string>
-    <string name="common_coins"><![CDATA[]]></string>
     <string name="sign_in_sevenday"><![CDATA[ 7 أيام]]></string>
     <string name="daily_reward_days_not_enough"><![CDATA[قم بتسجيل الدخول اليومي لمدة {x} أيام للحصول على المكافأة]]></string>
     <string name="clown"><![CDATA[مهرجون]]></string>
@@ -5283,7 +5282,6 @@
     <string name="share_notification"><![CDATA[شارك% 1 الغرفة.]]></string>
     <string name="share_h5_title"><![CDATA[مرحبًا بك في غرفة% 1]]></string>
     <string name="share_whatsapp_button"><![CDATA[واتس اب غير مثبت]]></string>
-    <string name="red_packet_error_account_banned"><![CDATA[]]></string>
     <string name="ktv_upload_lyrics"><![CDATA[3. تحميل كلمات]]></string>
     <string name="ktv_no_lyrics"><![CDATA[لا توجد كلمات بعد]]></string>
     <string name="vip_title_privileges"><![CDATA[امتيازات VIP]]></string>
@@ -5366,7 +5364,6 @@
     <string name="vip_system_notice_buy_success"><![CDATA[عزيزي مستخدم VIP ، بدأت امتيازات VIP% 1 الخاصة بك سارية المفعول ، وتاريخ انتهاء الصلاحية هو% 2]]></string>
     <string name="vip_sys_notice_admin_deduce"><![CDATA[تم تحديث فترة صلاحية امتياز VIP%1 الخاص بك إلى%2 ، إذا كان لديك أي أسئلة ، فيرجى الاتصال بخدمة العملاء للاستشارة]]></string>
     <string name="party_star_family_members_title"><![CDATA[فرد من العائلة]]></string>
-    <string name="ktv_cannot_gift_noone_sings"><![CDATA[]]></string>
     <string name="party_star_family_announcement_tip"><![CDATA[الرجاء إدخال إعلان الأسرة]]></string>
     <string name="party_star_family_name_tip"><![CDATA[الرجاء إدخال اسم العائلة]]></string>
     <string name="vip_30_day_price"><![CDATA[1% / 30 يوما]]></string>
@@ -5450,7 +5447,6 @@
     <string name="chatroom_liveroom_comment_clear_3"><![CDATA[قام المضيف بتنظيف محادثة تاريخ الغرفة.]]></string>
     <string name="chatroom_liveroom_comment_clear_4"><![CDATA[قام المشرف بتنظيف محادثة تاريخ الغرفة.]]></string>
     <string name="chatroom_liveroom_comment_admins_cancel_tips"><![CDATA[لقد تم استبعادك كمسؤول]]></string>
-    <string name="party_star_family_hot_family_recommend"><![CDATA[]]></string>
     <string name="party_star_family_hot_family_recommend_more"><![CDATA[أكثر]]></string>
     <string name="party_star_family_invite_friends_apply_join_same_family"><![CDATA[يمكنك دعوة أصدقائك للتقدم للانضمام إلى عائلتك ، ويمكنك فقط إرسال دعوة واحدة إلى نفس الصديق في غضون 48 ساعة]]></string>
     <string name="party_star_family_invite_friends_searching_tips"><![CDATA[أدخل معرف صديقك للبحث]]></string>
@@ -5540,7 +5536,6 @@
     <string name="chatroom_roomtheme_popup_renewuse"><![CDATA[تم التجديد بنجاح! هل تريد استخدامه على الفور؟]]></string>
     <string name="app_invite_public_test_desc"><![CDATA[سيتم إطلاق الإصدار الجديد قريبًا ، وأنت مدعو لتجربة الميزات الجديدة للإصدار التجريبي أولاً!]]></string>
     <string name="partystar_item_rain_coming_soon"><![CDATA[مستعد؟ تبدأ قريبا.]]></string>
-    <string name="partystar_item_rain_falling_duration"><![CDATA[]]></string>
     <string name="partystar_item_rain_falling_collect_popup_1"><![CDATA[تهانينا]]></string>
     <string name="partystar_item_rain_falling_collect_popup_2"><![CDATA[في المجموع تحصل]]></string>
     <string name="partystar_item_rain_falling_collect_popup_3"><![CDATA[نعم]]></string>
@@ -5551,18 +5546,7 @@
     <string name="chatroom_quick_gift_sending_tips_2"><![CDATA[لا يوجد التذكير في المرة القادمة]]></string>
     <string name="chatroom_quick_gift_sending_tips_3"><![CDATA[ارسال]]></string>
     <string name="chatroom_quick_gift_sending_tips_4"><![CDATA[التسليم السريع للهدية متاح الآن.]]></string>
-    <string name="chatroom_room_task_level_icon"><![CDATA[]]></string>
-    <string name="chatroom_room_task_level"><![CDATA[]]></string>
-    <string name="chatroom_room_task_level_points"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_1"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_2"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_3"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_4"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_5"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_6"><![CDATA[]]></string>
-    <string name="chatroom_room_task_rule_7"><![CDATA[]]></string>
     <string name="chatroom_room_task_rule_8"><![CDATA[اذهب]]></string>
-    <string name="chatroom_room_task_rule_9"><![CDATA[]]></string>
     <string name="chatroom_room_task_rule_10"><![CDATA[تسجيل الدخول (%1/%2 خبرة)]]></string>
     <string name="chatroom_room_task_rule_11"><![CDATA[يضيف كل تسجيل دخول مستخدم 10خبرات.]]></string>
     <string name="chatroom_room_task_rule_12"><![CDATA[البقاء في الغرفة دقيقة（%1/%2 خبرة）]]></string>
@@ -5571,7 +5555,6 @@
     <string name="chatroom_room_task_rule_15"><![CDATA[كل مستخدم يبقى لمدة 3 دقائق تضيف 10 نقاط خبرة.]]></string>
     <string name="chatroom_room_task_rule_16"><![CDATA[إرسال الهدية（%1/%2 خبرة）]]></string>
     <string name="chatroom_room_task_rule_17"><![CDATA[1 ماسة = 10نقاط خبرة]]></string>
-    <string name="chatroom_room_task_rule_18"><![CDATA[]]></string>
     <string name="partystar_item_rain_falling_collect_popup_7"><![CDATA[تسوية الحسابات ...]]></string>
     <string name="chatroom_room_task_daily_on_mic_title"><![CDATA[على الميكروفون（%1/%2 خبرة）]]></string>
     <string name="chatroom_room_task_rule_19"><![CDATA[يضيف مستخدم على الميكروفون 10 نقاط خبرة.]]></string>
@@ -5679,7 +5662,6 @@
     <string name="Invitation_centerp_h5_illustrate4"><![CDATA[1. افتح صفحة مركز الدعوة ، وانسخ رمز الدعوة الخاص بي ، وأرسله إلى المستخدم الذي تريد دعوته]]></string>
     <string name="Invitation_centerp_h5_illustrate5"><![CDATA[2. بعد قيام المستخدم بدعوة التنزيلات والتسجيلات ، انقر فوق رمز دعوة الصفحة الشخصية ، وأدخل رمز الدعوة لإكمال الربط]]></string>
     <string name="Invitation_centerp_h5_copy"><![CDATA[تم نسخ رمز الدعوة، يرجى مشاركته مع أصدقائك]]></string>
-    <string name="Invitation_centerp_h5_date"><![CDATA[]]></string>
     <string name="share_messenger_not_installed"><![CDATA[مسنجر غير مثبت]]></string>
     <string name="share_line_not_installed"><![CDATA[لاين غير مثبت]]></string>
     <string name="share_instagram_not_installed"><![CDATA[انتسجرام غير مثبت]]></string>
@@ -6105,8 +6087,6 @@
     <string name="game_coupon_greedy_dialog_text"><![CDATA[لديك 1 ٪ 2Re GreedyStar القسيمة لخصم أولوية القسيمة.]]></string>
     <string name="common_dialog_do_not_show_again"><![CDATA[لا تذكر مرة أخرى]]></string>
     <string name="fb_register_limit_tips"><![CDATA[أنت غير قادر حاليًا على استخدام حساب Facebook للوقت ، يرجى تسجيل الدخول لاستخدام الحساب المسجل]]></string>
-    <string name="greedy_toast_coupon_expired"><![CDATA[]]></string>
-    <string name="game_coupon_obtain_push"><![CDATA[]]></string>
     <string name="chatroom_room_skin_entrance"><![CDATA[شكل الغرفة]]></string>
     <string name="chatroom_room_skin_popup_tab1"><![CDATA[تأثير مقعد]]></string>
     <string name="chatroom_room_skin_popup_tab2"><![CDATA[شكل مقعد]]></string>
@@ -6229,7 +6209,6 @@
     <string name="md5_1fa2755ac7b62ae0"><![CDATA[تنسيق رقم الحساب البنكي غير صحيح]]></string>
     <string name="md5_5721b9e860e83067"><![CDATA[ما يصل إلى {value} حرفا]]></string>
     <string name="md5_7adebc277f0ffc98"><![CDATA[{value} حرفا]]></string>
-    <string name="anti_recording_and_screenshoot_setting_entrance"><![CDATA[]]></string>
     <string name="live_video_recording_button"><![CDATA[تسجيل المشاهدين]]></string>
     <string name="live_video_recording_button_tip"><![CDATA[لا يستطيع المشاهدون التسجيل بعد اغلاق الزر]]></string>
     <string name="live_video_screenshoot_button"><![CDATA[لقطة شاشة المشاهدين]]></string>
@@ -6269,8 +6248,6 @@
     <string name="recruitment_centre20"><![CDATA[عدد الاعضاء: 1%]]></string>
     <string name="recruitment_centre21"><![CDATA[وقت الدعوة: 1%]]></string>
     <string name="recruitment_centre22"><![CDATA[مرر للاسفل لرؤية المزيد]]></string>
-    <string name="mini_diamonds1"><![CDATA[]]></string>
-    <string name="mini_diamonds_tip"><![CDATA[]]></string>
     <string name="mini_diamonds_button1"><![CDATA[اخفاء ماسات هذا الشهر]]></string>
     <string name="mini_diamonds_button2"><![CDATA[اظهار ماسات هذا الشهر]]></string>
     <string name="md5_29673d33257febd0"><![CDATA[سنغافورة]]></string>
@@ -6644,7 +6621,6 @@
     <string name="face_verification_tips31"><![CDATA[يرجى إجراء التحقق من الوجه أولاً]]></string>
     <string name="game_room_setting_sound"><![CDATA[صوت غرفة الالعاب]]></string>
     <string name="game_room_setting_sound_1"><![CDATA[صوت غرفة الألعاب: بعد إيقاف التشغيل، لن يتم تشغيل صوت اللعبة في غرفة الألعاب.]]></string>
-    <string name="face_verification_tips32"><![CDATA[]]></string>
     <string name="gift_interactive_gift_tab_title"><![CDATA[هدية تفاعلية]]></string>
     <string name="crash_name"><![CDATA[صاروخ]]></string>
     <string name="crash_Round"><![CDATA[جولات]]></string>
@@ -6705,7 +6681,6 @@
     <string name="stickeer_reapeat_purchase"><![CDATA[تم الشراء، يرجى عدم تكرار الشراء]]></string>
     <string name="biggest_supporter_message1"><![CDATA[تهانينا لـ]]></string>
     <string name="biggest_supporter_message2"><![CDATA[احصل على منصب الوصي باستخدام [%2]، والكائن الوصي هو]]></string>
-    <string name="biggest_support_gift_name"><![CDATA[]]></string>
     <string name="video_link_setup_floating_layout"><![CDATA[تخطيط عائم]]></string>
     <string name="video_link_setup_latice_layout"><![CDATA[تخطيط شعرية]]></string>
     <string name="video_link_layout_popup_title"><![CDATA[هل أنت متأكد من التبديل إلى [%1]]]></string>
