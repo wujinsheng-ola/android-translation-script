@@ -72,8 +72,8 @@ def generate_android_values(json_file, output_folder):
 
             # 处理值中的特定字符并进行转义
             formatted_value = escape_special_characters(value)
-
-            f.write('    <string name="{0}"><![CDATA[{1}]]></string>\n'.format(key, formatted_value))
+            if formatted_value != "":
+                f.write('    <string name="{0}"><![CDATA[{1}]]></string>\n'.format(key, formatted_value))
 
         f.write('</resources>')
 
