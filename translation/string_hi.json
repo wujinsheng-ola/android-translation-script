@@ -6719,6 +6719,7 @@
  "live_video_annoucement_message": "announcement",
  "live_video_pk_compatibility": "The user version of this area\n is temporarily incompatible\n with your version.",
  "live_video_pk_audience_compatibility": "One anchor's version is incompatible with yours, \nand you will not be able to see the other anchor's screen. \nYou can try updating the version or restarting the app.",
+ "video_link_leave_room_tip": "you are in multi-party connection, are you sure to \nleave the room?",
  "rank_config_all": "सच्चा प्यार",
  "rank_config_lucky": "भाग्य",
  "rank_config_sweet": "रक्षा करना",

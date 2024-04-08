@@ -6731,6 +6731,7 @@
  "live_video_annoucement_message": "pengumuman",
  "live_video_pk_compatibility": "Versi pengguna kawasan ini tidak dapat disepadankan dengan sementara dengan versi anda.",
  "live_video_pk_audience_compatibility": "Versi hos tidak serasi dengan anda, dan anda tidak akan dapat melihat skrin hos lain. Anda boleh mencuba mengemaskini versi atau memulakan semula aplikasi.",
+ "video_link_leave_room_tip": "anda berada dalam hubungan berbilang pihak, adakah anda pasti melakukannya\ntinggalkan bilik itu?",
  "rank_config_all": "Cinta sejati",
  "rank_config_lucky": "Nasib",
  "rank_config_sweet": "Penjagaan",

@@ -8521,7 +8521,7 @@
     <string name="md5_1fa2755ac7b62ae0"><![CDATA[Banka hesap numarası biçimi yanlış]]></string>
     <string name="md5_5721b9e860e83067"><![CDATA[En fazla {value} karakter]]></string>
     <string name="md5_7adebc277f0ffc98"><![CDATA[{value} rakam]]></string>
-    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[kayıt önleme/ekran görüntüsü ayarı]]></string>
+    <string name="anti_recording_and_screenshoot_setting_entrance"><![CDATA[kayıt önleme/ekran görüntüsü ayarı]]></string>
     <string name="live_video_recording_button"><![CDATA[izleyici kaydı]]></string>
     <string name="live_video_recording_button_tip"><![CDATA[izleyici düğmeyi kapattıktan sonra kayıt yapamıyor]]></string>
     <string name="live_video_screenshoot_button"><![CDATA[izleyici ekran görüntüsü]]></string>
@@ -8579,6 +8579,7 @@
     <string name="md5_edd8375d21293eb8"><![CDATA[Yalnızca sayıları destekler]]></string>
     <string name="md5_3875cbe70cd64b6e"><![CDATA[Lütfen İngilizce olarak doldurun]]></string>
     <string name="md5_94b284023195a096"><![CDATA[6 hane]]></string>
+    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[kayıt önleme/ekran görüntüsü ayarı]]></string>
     <string name="mini_diamonds_button3"><![CDATA[Ayın elmasları gizlendi]]></string>
     <string name="mini_diamonds_button4"><![CDATA[Ayın elmaslarını göster]]></string>
     <string name="mini_diamonds"><![CDATA[Elmaslar]]></string>
@@ -9030,6 +9031,7 @@
     <string name="live_video_annoucement_message"><![CDATA[duyuru]]></string>
     <string name="live_video_pk_compatibility"><![CDATA[]]></string>
     <string name="live_video_pk_audience_compatibility"><![CDATA[]]></string>
+    <string name="video_link_leave_room_tip"><![CDATA[]]></string>
     <string name="home_tab_related"><![CDATA[önemli]]></string>
     <string name="home_tab_recommend"><![CDATA[Önerilenler]]></string>
     <string name="app_tab_party"><![CDATA[Parti]]></string>

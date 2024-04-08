@@ -6205,7 +6205,7 @@
     <string name="md5_1fa2755ac7b62ae0"><![CDATA[ব্যাঙ্ক অ্যাকাউন্ট নম্বর ফরম্যাট ভুল]]></string>
     <string name="md5_5721b9e860e83067"><![CDATA[Up to {value} characters]]></string>
     <string name="md5_7adebc277f0ffc98"><![CDATA[{value} digits]]></string>
-    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[অ্যান্টি-রেকর্ডিং/স্ক্রিনশুট সেটিং]]></string>
+    <string name="anti_recording_and_screenshoot_setting_entrance"><![CDATA[অ্যান্টি-রেকর্ডিং/স্ক্রিনশুট সেটিং]]></string>
     <string name="live_video_recording_button"><![CDATA[দর্শক রেকর্ডিং]]></string>
     <string name="live_video_recording_button_tip"><![CDATA[বোতাম বন্ধ করার পর দর্শক রেকর্ড করতে পারবেন না]]></string>
     <string name="live_video_screenshoot_button"><![CDATA[দর্শকের স্ক্রিনশ্যুট]]></string>
@@ -6263,6 +6263,7 @@
     <string name="md5_edd8375d21293eb8"><![CDATA[Only supports numbers]]></string>
     <string name="md5_3875cbe70cd64b6e"><![CDATA[ইংরেজিতে পূরণ করুন]]></string>
     <string name="md5_94b284023195a096"><![CDATA[৬ সংখ্যা]]></string>
+    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[অ্যান্টি-রেকর্ডিং সেটিং]]></string>
     <string name="mini_diamonds_button3"><![CDATA[মাসের ডায়মন্ড লুকিয়ে রাখা হয়েছে]]></string>
     <string name="mini_diamonds_button4"><![CDATA[মাসের ডায়মন্ড দেখান]]></string>
     <string name="mini_diamonds"><![CDATA[ডায়মন্ড]]></string>
@@ -6714,6 +6715,7 @@
     <string name="live_video_annoucement_message"><![CDATA[ঘোষণা]]></string>
     <string name="live_video_pk_compatibility"><![CDATA[এই এলাকার ব্যবহারকারী সংস্করণটি আপনার সংস্করণের সাথে সাময়িকভাবে বেমানান৷]]></string>
     <string name="live_video_pk_audience_compatibility"><![CDATA[একটি অ্যাঙ্করের সংস্করণ আপনার সাথে বেমানান, এবং আপনি অন্য অ্যাঙ্করের স্ক্রীন দেখতে সক্ষম হবেন না৷ আপনি সংস্করণ আপডেট করতে বা অ্যাপটি পুনরায় চালু করার চেষ্টা করতে পারেন]]></string>
+    <string name="video_link_leave_room_tip"><![CDATA[আপনি বহু-দলীয় সংযোগে আছেন, আপনি কি রুম ছেড়ে যাওয়ার বিষয়ে নিশ্চিত?]]></string>
     <string name="rank_config_all"><![CDATA[সত্য ভালবাসা]]></string>
     <string name="rank_config_lucky"><![CDATA[ভাগ্য]]></string>
     <string name="rank_config_sweet"><![CDATA[রক্ষা করা]]></string>

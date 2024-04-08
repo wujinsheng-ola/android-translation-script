@@ -6217,7 +6217,7 @@
     <string name="md5_1fa2755ac7b62ae0"><![CDATA[Format nombor akaun bank tidak betul]]></string>
     <string name="md5_5721b9e860e83067"><![CDATA[Sehingga {value} aksara]]></string>
     <string name="md5_7adebc277f0ffc98"><![CDATA[{value} digit]]></string>
-    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[]]></string>
+    <string name="anti_recording_and_screenshoot_setting_entrance"><![CDATA[]]></string>
     <string name="live_video_recording_button"><![CDATA[Rakaman penonton]]></string>
     <string name="live_video_recording_button_tip"><![CDATA[Penonton tidak boleh merakam selepas menutup butang]]></string>
     <string name="live_video_screenshoot_button"><![CDATA[Tangkapan skrin penonton]]></string>
@@ -6275,6 +6275,7 @@
     <string name="md5_edd8375d21293eb8"><![CDATA[Hanya menyokong nombor]]></string>
     <string name="md5_3875cbe70cd64b6e"><![CDATA[Sila isikan dalam Bahasa Inggeris]]></string>
     <string name="md5_94b284023195a096"><![CDATA[6 digit]]></string>
+    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[Halang tetapan rakaman skrin]]></string>
     <string name="mini_diamonds_button3"><![CDATA[Berlian bulan ini telah disorokkan]]></string>
     <string name="mini_diamonds_button4"><![CDATA[Tunjukkan berlian bulan ini]]></string>
     <string name="mini_diamonds"><![CDATA[Berlian]]></string>
@@ -6726,6 +6727,7 @@
     <string name="live_video_annoucement_message"><![CDATA[pengumuman]]></string>
     <string name="live_video_pk_compatibility"><![CDATA[Versi pengguna kawasan ini tidak dapat disepadankan dengan sementara dengan versi anda.]]></string>
     <string name="live_video_pk_audience_compatibility"><![CDATA[Versi hos tidak serasi dengan anda, dan anda tidak akan dapat melihat skrin hos lain. Anda boleh mencuba mengemaskini versi atau memulakan semula aplikasi.]]></string>
+    <string name="video_link_leave_room_tip"><![CDATA[anda berada dalam hubungan berbilang pihak, adakah anda pasti melakukannya\ntinggalkan bilik itu?]]></string>
     <string name="rank_config_all"><![CDATA[Cinta sejati]]></string>
     <string name="rank_config_lucky"><![CDATA[Nasib]]></string>
     <string name="rank_config_sweet"><![CDATA[Penjagaan]]></string>

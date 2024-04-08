@@ -6217,7 +6217,7 @@
     <string name="md5_1fa2755ac7b62ae0"><![CDATA[銀行賬號格式不正確]]></string>
     <string name="md5_5721b9e860e83067"><![CDATA[最多{value}個字符]]></string>
     <string name="md5_7adebc277f0ffc98"><![CDATA[{value}位數字]]></string>
-    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[]]></string>
+    <string name="anti_recording_and_screenshoot_setting_entrance"><![CDATA[]]></string>
     <string name="live_video_recording_button"><![CDATA[]]></string>
     <string name="live_video_recording_button_tip"><![CDATA[]]></string>
     <string name="live_video_screenshoot_button"><![CDATA[]]></string>
@@ -6275,6 +6275,7 @@
     <string name="md5_edd8375d21293eb8"><![CDATA[仅支持数字]]></string>
     <string name="md5_3875cbe70cd64b6e"><![CDATA[请填写英文]]></string>
     <string name="md5_94b284023195a096"><![CDATA[6位数字]]></string>
+    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[]]></string>
     <string name="mini_diamonds_button3"><![CDATA[]]></string>
     <string name="mini_diamonds_button4"><![CDATA[]]></string>
     <string name="mini_diamonds"><![CDATA[]]></string>
@@ -6726,6 +6727,7 @@
     <string name="live_video_annoucement_message"><![CDATA[]]></string>
     <string name="live_video_pk_compatibility"><![CDATA[]]></string>
     <string name="live_video_pk_audience_compatibility"><![CDATA[]]></string>
+    <string name="video_link_leave_room_tip"><![CDATA[]]></string>
     <string name="rank_config_all"><![CDATA[真愛]]></string>
     <string name="rank_config_lucky"><![CDATA[手氣]]></string>
     <string name="rank_config_sweet"><![CDATA[守護]]></string>

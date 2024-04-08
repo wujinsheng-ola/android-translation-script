@@ -6422,7 +6422,7 @@
     <string name="md5_1fa2755ac7b62ae0"><![CDATA[Format nomor rekening bank salah]]></string>
     <string name="md5_5721b9e860e83067"><![CDATA[Hingga {value} karakter]]></string>
     <string name="md5_7adebc277f0ffc98"><![CDATA[{value} digit]]></string>
-    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[pengaturan anti-perekaman/pemotretan layar]]></string>
+    <string name="anti_recording_and_screenshoot_setting_entrance"><![CDATA[pengaturan anti-perekaman/pemotretan layar]]></string>
     <string name="live_video_recording_button"><![CDATA[rekaman penonton]]></string>
     <string name="live_video_recording_button_tip"><![CDATA[penonton tidak dapat merekam setelah menutup tombol]]></string>
     <string name="live_video_screenshoot_button"><![CDATA[tangkapan layar penonton]]></string>
@@ -6480,6 +6480,7 @@
     <string name="md5_edd8375d21293eb8"><![CDATA[Hanya mendukung angka]]></string>
     <string name="md5_3875cbe70cd64b6e"><![CDATA[Silakan isi dalam bahasa Inggris]]></string>
     <string name="md5_94b284023195a096"><![CDATA[6 digit]]></string>
+    <string name="anti_recording_screenshoot_setting_entrance"><![CDATA[pengaturan anti-perekaman]]></string>
     <string name="mini_diamonds_button3"><![CDATA[Diamond bulan ini telah disembunyikan]]></string>
     <string name="mini_diamonds_button4"><![CDATA[Tampilkan diamond bulan ini]]></string>
     <string name="mini_diamonds"><![CDATA[Diamond]]></string>
@@ -6925,12 +6926,13 @@
     <string name="video_link_mic_operation_tip4"><![CDATA[Berhasil membuka mikrofon]]></string>
     <string name="video_link_bubble"><![CDATA[Banyak pengguna melakukan panggilan]]></string>
     <string name="video_link_version_popup_tip1"><![CDATA["Versi ini memperbarui fungsi yang memungkinkan banyak pengguna \nterhubung di ruang langsung, silakan unduh untuk merasakannya"]]></string>
-    <string name="video_link_compatiblity_tip1"><![CDATA[]]></string>
-    <string name="video_link_compatiblity_tip2"><![CDATA[]]></string>
-    <string name="video_link_compatiblity_tip3"><![CDATA[]]></string>
+    <string name="video_link_compatiblity_tip1"><![CDATA[pengguna tidak mendukung fungsi ini]]></string>
+    <string name="video_link_compatiblity_tip2"><![CDATA[Anda tidak mendukung fungsi ini, Anda dapat mencoba \nunduh versi terbaru atau mulai ulang aplikasi]]></string>
+    <string name="video_link_compatiblity_tip3"><![CDATA[Ruangan ini dalam mode koneksi multi-pihak, Anda tidak \nmendukung fungsi ini, Anda dapat mencoba mengunduh \nversi terbaru atau mulai ulang aplikasi]]></string>
     <string name="live_video_annoucement_message"><![CDATA[pengumuman]]></string>
     <string name="live_video_pk_compatibility"><![CDATA[Versi pengguna area ini untuk sementara tidak kompatibel dengan versi Anda.]]></string>
     <string name="live_video_pk_audience_compatibility"><![CDATA[Versi salah satu host tidak kompatibel dengan versi Anda, dan Anda tidak akan dapat melihat layar penyiar lainnya. Anda dapat mencoba memperbarui versi atau memulai ulang aplikasi.]]></string>
+    <string name="video_link_leave_room_tip"><![CDATA[Anda berada dalam mode koneksi multi-pihak, apakah Anda yakin untuk \nmeninggalkan ruangan?]]></string>
     <string name="rank_config_all"><![CDATA[Cinta sejati]]></string>
     <string name="rank_config_lucky"><![CDATA[Lucky]]></string>
     <string name="rank_config_sweet"><![CDATA[Guard]]></string>
