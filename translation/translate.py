@@ -44,6 +44,15 @@ def generate_android_values(json_file, output_folder):
     language_code = base_name.split('string_')[1].replace('_', '-')  # 将下划线替换为连字符
     if language_code == "en":
         output_folder_path = os.path.join(output_folder, f'values')
+    if language_code == "id":
+        language_code = "in"
+        output_folder_path = os.path.join(output_folder, f'values-{language_code}')
+    if language_code == "zh-CN":
+        language_code = "zh-rCN"
+        output_folder_path = os.path.join(output_folder, f'values-{language_code}')
+    if language_code == "zh-TW":
+        language_code = "zh-rTW"
+        output_folder_path = os.path.join(output_folder, f'values-{language_code}')
     else:
         output_folder_path = os.path.join(output_folder, f'values-{language_code}')
 
