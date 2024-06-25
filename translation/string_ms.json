@@ -6470,7 +6470,7 @@
  "sticker_popup_VIP_button": "Menjadi VIP",
  "sticker_prompt_line_tips": "Bayar untuk membuka kunci set emoji",
  "sticker_prompt_line_button": "pembelian",
- "sticker_popup_tip_3": "Anda perlu  membayar X berlian untuk membuka kunci emoji ini selama X hari?",
+ "sticker_popup_tip_3": "Anda perlu  membayar【%1】 berlian untuk membuka kunci emoji ini selama 【%2】 hari?",
  "sitcker_purchase_check_tip": "Pembelian emoji",
  "device_ban_toast_1": "Peranti yang anda sedang gunakan telah disekat kerana melanggar polisi platform",
  "lucky_fruit_name": "Lucky Fruit",

@@ -6300,7 +6300,7 @@
     <string name="sticker_popup_VIP_button"><![CDATA[Menjadi VIP]]></string>
     <string name="sticker_prompt_line_tips"><![CDATA[Bayar untuk membuka kunci set emoji]]></string>
     <string name="sticker_prompt_line_button"><![CDATA[pembelian]]></string>
-    <string name="sticker_popup_tip_3"><![CDATA[Anda perlu  membayar X berlian untuk membuka kunci emoji ini selama X hari?]]></string>
+    <string name="sticker_popup_tip_3"><![CDATA[Anda perlu  membayar【%1】 berlian untuk membuka kunci emoji ini selama 【%2】 hari?]]></string>
     <string name="sitcker_purchase_check_tip"><![CDATA[Pembelian emoji]]></string>
     <string name="device_ban_toast_1"><![CDATA[Peranti yang anda sedang gunakan telah disekat kerana melanggar polisi platform]]></string>
     <string name="lucky_fruit_name"><![CDATA[Lucky Fruit]]></string>
